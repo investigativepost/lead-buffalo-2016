@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Lead Samples Erie County, New York</title>
+    <meta name="viewport" content="initial-scale=1.0, user-scalable=no" />
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8"/>
+    <link rel="shortcut icon" href="http://orbitist.s3.amazonaws.com/_toplevel/images/logos/logo_blue_button_100.png" />
+    <link href='https://fonts.googleapis.com/css?family=Ubuntu:400,400italic' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" href="css/reset.css" />
+    <link rel="stylesheet" href="http://libs.cartocdn.com/cartodb.js/v3/3.15/themes/css/cartodb.css" />
+    <link rel="stylesheet" href="css/style.css" />
+    <link rel="stylesheet" href="css/infowindow.css" />
+
+
+    <script src="http://libs.cartocdn.com/cartodb.js/v3/3.15/cartodb.uncompressed.js"></script>
+
+    <script id="widgetTemplate" type="text/template">
+      <div class="widget js-widget">
+        <a class="widget-filter-clear js-filter-clear" href="#">Clear</a>
+        <h1 class="widget-title"><%= title %></h1>
+        <ul class="widget-filters">
+          <%
+            for (var i in filters) {
+              var filter = filters[i];
+          %>
+            <li>
+              <a class="widget-filter js-filter" data-query-condition="<%= filter.condition %>" data-active="false" href="#"><%= filter.title %></a>
+            </li>
+          <%
+            }
+          %>
+        </ul>
+      </div>
+    </script>
+
+    <script id="statsTemplate" type="text/template">
+      <div class="widget" id="statsTemplate">
+        <h1 class="widget-title">Readings <span class="widget-title-info">COUNT</span></h1>
+        <h2 class="widget-figure"><%= count %></h2>
+      </div>
+    </script>
+
+    <script id="infowindowTemplate" type="text/template">
+      <div class="Cdb-infowindow Cdb-infowindow--light" style="max-width: 200px;">
+        <div class="Cdb-infowindow-container">
+          <div class="Cdb-infowindow-inner">
+            <ul class="Cdb-infowindow-list">
+              <li class="Cdb-infowindow-list-item">
+                <h5 class="Cdb-infowindow-subtitle">NEIGHBOURHOOD</h5>
+                <h4 class="Cdb-infowindow-title">{{ ndvi }}</h4>
+              </li>
+            </ul>
+          </div>
+          <div class="Cdb-hook">
+            <div class="Cdb-hook-inner">
+            </div>
+          </div>
+        </div>
+      </div>
+    </script>
+
+    <script type="text/javascript" src="./js/widgets.js"></script>
+    <script type="text/javascript" src="./js/stats.js"></script>
+    <script type="text/javascript" src="./js/app.js"></script>
+  </head>
+  <body>
+    <div class="container">
+      <div id="map"></div>
+      <div class="widgets-container">
+        <div class="Widgets-title">
+          Lead Readings in Erie County, NY
+        </div>
+        <div id="widgets"></div>
+      </div>
+    </div>
+  </body>
+</html>

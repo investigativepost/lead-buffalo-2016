@@ -1,0 +1,18 @@
+
+permalink: :year-:month-:day-:title
+
+highlighter: rouge
+markdown: kramdown
+
+title : Lead in Buffalo
+tagline:
+author :
+  name : Orbitist
+  email : support@orbitist.com
+  web : http://www.orbitist.com
+
+production_url : labs.orbitist.com/ip-lead-buffalo
+
+baseurl : http://labs.orbitist.com/ip-lead-buffalo
+
+timezone : America/New_York
