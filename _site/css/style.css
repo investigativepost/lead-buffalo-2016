@@ -61,6 +61,10 @@ nav {
   font-size: 12px;
   margin: 5px;
 }
+.credits img {
+  min-width: 100%;
+}
+
 .caption {
   background-color: #eee;
   max-width: 960px;

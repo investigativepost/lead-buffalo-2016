@@ -4,11 +4,16 @@
   .intro {
     height: 300px;
   }
-
+  .intro h1 {
+      padding-top: 100px;
+  }
   .map {
     height: 800px;
   }
 
+  .credits img {
+    padding: 20px;
+  }
 
 
 }
