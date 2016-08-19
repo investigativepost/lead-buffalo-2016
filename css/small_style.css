@@ -8,9 +8,12 @@
       padding-top: 100px;
   }
   .map {
-    height: 800px;
     padding-left: 10px;
     padding-right: 10px;
+  }
+
+  .point-map {
+    height: 800px;
   }
 
   .credits img {
