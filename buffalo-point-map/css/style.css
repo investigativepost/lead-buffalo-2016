@@ -152,6 +152,10 @@ a {
     width: 100%;
     max-width: none;
     height: 500px;
+    -webkit-flex: none;
+    -webkit-box-flex: none;
+    -ms-flex: none;
+    flex: none;
   }
   .widgets-container {
     position: absolute;
@@ -160,5 +164,9 @@ a {
     height: 300px;
     top: 500px;
     margin: 0;
+    -webkit-flex: none;
+    -webkit-box-flex: none;
+    -ms-flex: none;
+    flex: none;
   }
 }
