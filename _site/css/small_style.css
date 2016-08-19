@@ -9,6 +9,8 @@
   }
   .map {
     height: 800px;
+    padding-left: 10px;
+    padding-right: 10px;
   }
 
   .credits img {
