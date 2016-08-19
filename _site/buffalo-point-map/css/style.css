@@ -156,6 +156,8 @@ a {
     -webkit-box-flex: none;
     -ms-flex: none;
     flex: none;
+    left: 0;
+    right: 0;
   }
   .widgets-container {
     position: absolute;
@@ -168,5 +170,11 @@ a {
     -webkit-box-flex: none;
     -ms-flex: none;
     flex: none;
+    left: 0;
+    right: 0;
+    padding-right: 20px;
+  }
+  .leaflet-container .leaflet-control-attribution, .leaflet-container .leaflet-control-scale {
+    margin-bottom: 12px;
   }
 }
