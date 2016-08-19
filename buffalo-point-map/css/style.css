@@ -148,8 +148,16 @@ a {
 
 @media (max-width: 768px) {
   #map {
+    position: absolute;
     width: 100%;
     max-width: none;
     height: 500px;
+  }
+  .widgets-container {
+    position: absolute;
+    width: 100%;
+    max-width: none;
+    height: 300px;
+    top: 500px;
   }
 }
