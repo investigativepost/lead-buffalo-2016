@@ -4,15 +4,15 @@
     <title>Lead Samples Buffalo, New York</title>
     <meta name="viewport" content="initial-scale=1.0, user-scalable=no" />
     <meta http-equiv="content-type" content="text/html; charset=UTF-8"/>
-    <!-- <link rel="shortcut icon" href="http://orbitist.s3.amazonaws.com/_toplevel/images/logos/logo_blue_button_100.png" /> -->
+    <link rel="shortcut icon" href="http://orbitist.s3.amazonaws.com/_toplevel/images/logos/logo_blue_button_100.png" />
     <link href='https://fonts.googleapis.com/css?family=Ubuntu:400,400italic' rel='stylesheet' type='text/css'>
     <link rel="stylesheet" href="css/reset.css" />
-    <link rel="stylesheet" href="css/carto.css" />
+    <link rel="stylesheet" href="http://libs.cartocdn.com/cartodb.js/v3/3.15/themes/css/cartodb.css" />
     <link rel="stylesheet" href="css/style.css" />
     <link rel="stylesheet" href="css/infowindow.css" />
 
 
-    <script src="js/carto.js"></script>
+    <script src="http://libs.cartocdn.com/cartodb.js/v3/3.15/cartodb.uncompressed.js"></script>
 
     <script id="widgetTemplate" type="text/template">
       <div class="widget js-widget">
@@ -41,22 +41,23 @@
     </script>
 
     <script id="infowindowTemplate" type="text/template">
-      <div class="Cdb-infowindow Cdb-infowindow--light" style="max-width: 200px;">
-        <div class="Cdb-infowindow-container">
-          <div class="Cdb-infowindow-inner">
-            <ul class="Cdb-infowindow-list">
-              <li class="Cdb-infowindow-list-item">
-                <h5 class="Cdb-infowindow-subtitle">NEIGHBOURHOOD</h5>
-                <h4 class="Cdb-infowindow-title">{{ ndvi }}</h4>
-              </li>
-            </ul>
-          </div>
-          <div class="Cdb-hook">
-            <div class="Cdb-hook-inner">
+
+            <div class="cartodb-popup dark v2">
+              <a href="#close" class="cartodb-popup-close-button close">x</a>
+              <div class="cartodb-popup-content-wrapper">
+                <div class="cartodb-popup-content">
+                  <h4>Lead Count PPB</h4>
+                  <p>{{lead_ppb}}</p>
+                  <h4>Year Sampled</h4>
+                  <p>{{year}}</p>
+                  <h4>Address</h4>
+                  <p>{{address}}</p>
+                </div>
+              </div>
+              <div class="cartodb-popup-tip-container"></div>
             </div>
-          </div>
-        </div>
-      </div>
+
+
     </script>
 
     <script type="text/javascript" src="./js/widgets.js"></script>
