@@ -173,6 +173,7 @@ a {
     left: 0;
     right: 0;
     padding-right: 20px;
+    padding-left: 20px;
   }
   .leaflet-container .leaflet-control-attribution, .leaflet-container .leaflet-control-scale {
     margin-bottom: 12px;
