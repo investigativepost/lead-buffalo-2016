@@ -146,3 +146,10 @@ a {
   margin-bottom: 8px;
 }
 
+@media (max-width: 768px) {
+  #map {
+    width: 100%;
+    max-width: none;
+    height: 500px;
+  }
+}
