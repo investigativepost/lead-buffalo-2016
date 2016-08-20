@@ -13,9 +13,16 @@ p {
 }
 
 h1 {
+  margin: 0 auto 30px auto;
+  max-width: 960px;
   margin: auto;
   max-width: 960px;
   font-family: GnuolaneXl-Regular, Georgia, serif;
+}
+
+h3 {
+  margin: 0 auto 30px auto;
+  max-width: 960px;
 }
 
 nav {
