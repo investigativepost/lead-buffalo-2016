@@ -13,7 +13,8 @@ p, li, ol {
 }
 
 li, ol {
-  padding: 0 5px 0 10px;
+  max-width: 900px;
+  margin: 0 auto 15px auto;
 }
 
 h1 {
