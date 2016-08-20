@@ -164,9 +164,9 @@ In June, The Guardian newspaper found that at least 33 cities, including Buffalo
 
 In fact, Buffalo’s water utility was one of a handful that “cheated” on all three measures by instructing residents to:
 
-Flush faucets prior to testing, which removes water that may have been in contact with lead plumbing.
-Clean filter screens inside faucets, which can remove flakes of lead.
-Run the water slowly while collecting samples, which can prevent lead particles from flaking off pipes.
+* Flush faucets prior to testing, which removes water that may have been in contact with lead plumbing.
+* Clean filter screens inside faucets, which can remove flakes of lead.
+* Run the water slowly while collecting samples, which can prevent lead particles from flaking off pipes.
 
 “I don’t know how this sounds to residents of Buffalo who are asked and expected to trust their water utility when the utility tells them that their water is safe to drink,” Lambrinidou said.
 
