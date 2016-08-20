@@ -61,55 +61,164 @@ Houses in Buffalo built before 1940 are more likely to have a lead service line 
 
 “It’s like drinking water through a 30-foot lead straw,” said Edwards, the national expert.
 
-Homes built before 1986 are more likely to have plumbing inside that contains lead – such as in solder used to connect pipes. 
+Homes built before 1986 are more likely to have plumbing inside that contains lead – such as in solder used to connect pipes.
 
 {% include buffalo-point-map.html %}
 
 <hr>
 
-Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
+Like all water utilities, Buffalo’s is required by federal law to periodically test drinking water in a limited number of homes. All the homes tested are required to have some form of lead in the pipes. In Buffalo, an average of 60 homes are sampled every three years.
 
-Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution. User generated content in real-time will have multiple touchpoints for offshoring.
+Experts say water utilities and health departments tend to downplay the risks of lead in drinking water.
 
-Capitalise on low hanging fruit to identify a ballpark value added activity to beta test. Override the digital divide with additional clickthroughs from DevOps. Nanotechnology immersion along the information highway will close the loop on focusing solely on the bottom line.
+“I guarantee you: you sample for lead in worst-case Buffalo homes, you’re going to find significant levels of lead,” Edwards said.
 
-Podcasting operational change management inside of workflows to establish a framework. Taking seamless key performance indicators offline to maximise the long tail. Keeping your eye on the ball while performing a deep dive on the start-up mentality to derive convergence on cross-platform integration.
+## The disparity
 
-Collaboratively administrate empowered markets via plug-and-play networks. Dynamically procrastinate B2C users after installed base benefits. Dramatically visualize customer directed convergence without revolutionary ROI.
+Investigative Post filed Freedom of Information Law requests to obtain records for the sampling conducted in 2002, 2005, 2008, 2011 and 2014.
 
-Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
+An analysis of the records found that only one-third of the samples the city collected came from homes in the five ZIP codes that account for 91 percent of the reported childhood lead poisoning cases. These neighborhoods are collectively 66 percent minority.
 
-Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution. User generated content in real-time will have multiple touchpoints for offshoring.
+Nothing illustrates this disparity more than the sampling in ZIP code 14211, an area of the city bisected by Genesee Street that includes neighborhoods that include Martin Luther King and Schiller parks. The neighborhoods here are collectively 83 percent minority and accounted for almost 20 percent of the children diagnosed with dangerous levels of lead in their blood over the past three years. That’s 118 children.
 
-Capitalise on low hanging fruit to identify a ballpark value added activity to beta test. Override the digital divide with additional clickthroughs from DevOps. Nanotechnology immersion along the information highway will close the loop on focusing solely on the bottom line.
+Nonetheless, not a single home here was sampled in 2014 or in 2008.
 
-Podcasting operational change management inside of workflows to establish a framework. Taking seamless key performance indicators offline to maximise the long tail. Keeping your eye on the ball while performing a deep dive on the start-up mentality to derive convergence on cross-platform integration.
+In contrast, 46 percent of the samples the city collected came from homes in five ZIP codes that account for only 2.5 percent of the reported childhood lead poisoning cases. These neighborhoods are 84 percent white.
 
-Collaboratively administrate empowered markets via plug-and-play networks. Dynamically procrastinate B2C users after installed base benefits. Dramatically visualize customer directed convergence without revolutionary ROI.
+The two most tested ZIP codes — 81 of 300 samples — were in North and South Buffalo where not a single child was found to have elevated blood levels in the past three years. Both neighborhoods are overwhelmingly white.
+
 
 {% include buffalo-heat-map.html %}
 
 <hr>
 
-Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
+East Side residents interviewed by Investigative Post said they are disappointed, but not surprised, by the disparity. Residents say the disparity in testing is part of a larger pattern of neglect by the city.
 
-Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution. User generated content in real-time will have multiple touchpoints for offshoring.
+“People in these communities are numb to it,” said Madi Robinson, of East Woodside Avenue on the East Side.
 
-Capitalise on low hanging fruit to identify a ballpark value added activity to beta test. Override the digital divide with additional clickthroughs from DevOps. Nanotechnology immersion along the information highway will close the loop on focusing solely on the bottom line.
+“You don’t know what we’ve been through down here. How do you get them to act?”  
 
-Podcasting operational change management inside of workflows to establish a framework. Taking seamless key performance indicators offline to maximise the long tail. Keeping your eye on the ball while performing a deep dive on the start-up mentality to derive convergence on cross-platform integration.
+Robinson’s neighbor, Alexis Adams, said the disparity in the sampling program made her “a little frustrated, a little angry and a lot curious.”
 
-Collaboratively administrate empowered markets via plug-and-play networks. Dynamically procrastinate B2C users after installed base benefits. Dramatically visualize customer directed convergence without revolutionary ROI.
+“We’ve got some of the older houses in the city, it’s proven that they’ve got higher lead levels. So, why wouldn’t they take the time to check it out?” she said.
 
-Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
+Brown said any resident can volunteer to participate in the city’s sampling program and reminders are inserted in ratepayers’ bills before testing begins.
 
-Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution. User generated content in real-time will have multiple touchpoints for offshoring.
+“We’re not ignoring any neighborhood,” he said. “They have the ability to contact us and request that their water be tested.”
 
-Capitalise on low hanging fruit to identify a ballpark value added activity to beta test. Override the digital divide with additional clickthroughs from DevOps. Nanotechnology immersion along the information highway will close the loop on focusing solely on the bottom line.
+Neither Meadows nor Robinson recall seeing the insert in their water bills. Adams only noticed the insert after a reporter asked her to check her most recent bills.
 
-Podcasting operational change management inside of workflows to establish a framework. Taking seamless key performance indicators offline to maximise the long tail. Keeping your eye on the ball while performing a deep dive on the start-up mentality to derive convergence on cross-platform integration.
+“It is a little flier with a pretty picture of a boat floating on the lake,” Adams said. “I didn’t pay attention to it.”
 
-Collaboratively administrate empowered markets via plug-and-play networks. Dynamically procrastinate B2C users after installed base benefits. Dramatically visualize customer directed convergence without revolutionary ROI.
+McFoy, the Buffalo Water Board chairman, acknowledged that the fliers do not reach tenants whose landlords pay the bills.
+
+“We know we have significant renters so we’ve had to change our tactics up and actually go door to door in those neighborhoods,” he said.
+
+Possible violation of law
+
+Federal law requires that at least half the homes sampled are deemed most at-risk. Investigative Post obtained, through the Freedom of Information Law, the records the city said it used to determine the most at-risk homes and the location of lead service lines. The law requires every home sampled have lead plumbing and at least half must have lead service lines that run from the street into homes, which are “pure 100 percent lead,” said Edwards, the Virginia Tech professor.
+
+Of the 62 homes sampled in 2014, Investigative Post could only verify lead service lines in 28 households based on the records the city provided.
+
+Furthermore, many of the records the city provided are from a century ago, some of which could be inaccurate. For example, most of the records do not indicate if a lead service line had been replaced.
+
+“We ran into this in Flint, Michigan, where we’re learning that the error rate in these records is about 50 percent,” Edwards said.
+
+“So, how do you know if you’re meeting the law when the records may not have been updated? I mean, it’s hard to believe that in some of those homes the service line hasn’t been replaced in a hundred years.”
+
+The Erie County Health Department said the city needs to ensure it is sampling the most at risk homes.
+
+“We have required them to investigate current plumbing materials and update their monitoring plan,” a health department spokeswoman said in an Aug. 17 email.
+
+Possible conflict of interest
+
+Investigative Post also found up to a quarter of the homes tested in 2014 were owned by current and former city employees or their family members.
+
+Among the homes the city sampled that year are those owned by a former chief pumping plant engineer employed by the city for 30 years, a water treatment supervisor employed for 28 years and a chemist employed for 23 years.
+
+In addition, the city sampled homes owned by public works employees, a parking enforcement officer and a senior engineer. In 2008 and 2011, the city sampled a home owned by state Assemblywoman Crystal Peoples-Stokes.
+
+Experts said that while testing homes owned by current and former employees, family members and politicians is not illegal, it does raise questions about whether the city is testing the most at-risk homes.
+
+“It seems like they’re sampling more for convenience rather than for really trying to find lead problems and protect public health,” Edwards said.
+
+“Sampling homes of employees, I don’t know what justification you’d have for claiming that those are the worst-case homes in the city.”
+
+Lambrinidou, the D.C. expert, said testing the homes of current and former government employees poses a conflict of interest.
+
+“It is time for water utilities to be required to monitor precisely in the highest-risk neighborhoods where people do not have the means to protect themselves,” she said.
+
+Brown disagreed with the experts’ contention that sampling the homes of current and former employees poses a conflict.
+
+“If they request that their water be tested there’s no problem with them making that request just as we would encourage any city resident,” he said.
+
+Inaction and ‘cheating’
+
+Investigative Post found other problems with the testing program.
+
+In February, the EPA directed all water utilities to “increase transparency” by posting on their public websites the locations of lead service lines and updated records on the types of plumbing inside homes. Buffalo has failed to follow this guidance.
+
+“If utilities are not able to demonstrate that they have made progress in this regard, then we have a serious problem on our hands,”  Lambrinidou said.
+
+In June, The Guardian newspaper found that at least 33 cities, including Buffalo, used “cheats” that could reduce the amount of lead in drinking water before sampling.
+
+In fact, Buffalo’s water utility was one of a handful that “cheated” on all three measures by instructing residents to:
+
+Flush faucets prior to testing, which removes water that may have been in contact with lead plumbing.
+Clean filter screens inside faucets, which can remove flakes of lead.
+Run the water slowly while collecting samples, which can prevent lead particles from flaking off pipes.
+
+“I don’t know how this sounds to residents of Buffalo who are asked and expected to trust their water utility when the utility tells them that their water is safe to drink,” Lambrinidou said.
+
+City officials have since changed the sampling instructions so that they are more in line with EPA’s guidance.
+
+But the Erie County Health Department has no plans to change its protocols when investigating sources of lead in homes where a child is diagnosed with elevated blood-lead levels.
+
+Health Department ignores risk
+
+Alexis Adams, the East Side resident, said her great-grandson was diagnosed with a high blood-lead level two years ago. She said county health inspectors checked the window sills and walls, but did not find any lead hazards.
+
+What did the county health department conclude?
+
+“They said primarily they think he was putting pennies in his mouth, coins in his mouth,” she said. “That’s the best they could come up with.”
+
+“They didn’t check the water,” she added.
+
+Meadows, the Buffalo activist, had a similar experience after her daughter was diagnosed with an elevated blood lead level. The only difference was that the health department said her daughter’s exposure came from the soil.
+
+Although soil can be a source of lead exposure, Meadows said her daughter rarely played in the yard.
+
+“They never tested the water,” she said.
+
+“I didn’t know any better at the time. I just had a suspicion that they were not telling me the truth.”
+
+Commissioner of Health Gale Burstein refused an interview request. She said in a prepared statement that the county does not routinely test the water in the houses of children diagnosed with elevated lead levels in their blood.
+
+In her statement, Burstein said county inspectors have identified lead paint “as the primary source of lead in our investigation of elevated blood lead levels.”
+
+“If presented with evidence that tap water was becoming an identified source of lead poisoning, ECDOH would absolutely consider modification of our testing protocol to include tap water,” she said.
+
+Edwards called Burstein’s reasoning “narrow minded,” and Lambrinidou said it was  “unconscionable.”
+
+“It is unethical and it is entirely unscientific,” said Lambrinidou.
+
+“Anybody, and certainly public health professionals who take the time to understand how lead in drinking water works, would know better than to make blanket statements like this that reveal a lack of understanding.”
+
+Residents skeptical
+
+McFoy, chairman of the Buffalo Water Board, said the city has moved up its sampling program a year ahead of schedule as a result of “heightened awareness” since the crisis in Flint.
+
+He said the city has more than doubled the number of homes it is testing this round to “ensure that we have complete coverage in the city.” McFoy said officials have visited block clubs, called on Common Council members to help recruit residents and gone door to door in undersampled neighborhoods.
+
+“We want to simply ensure that we have complete coverage in the city,” McFoy said.
+
+East Side residents said they are not hopeful that testing will increase in their neighborhoods.
+
+“Of course it upsets me that we are obviously neglected,” Robinson said. “They don’t do anything down here unless there’s an urgency to act.”
+
+Adams said she felt similarly.
+
+“I would ask them why they’re not representing us, why they’re not looking out for our best interests,” she said. 
 
 {% include credits.html %}
 
