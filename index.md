@@ -46,7 +46,7 @@ Oluwole McFoy, chairman of the Buffalo Water Board, acknowledged that there were
 
 “We look at it as: it is not enough to do it the way we’ve been doing it,” he said.
 
-High lead poisoning rates
+### High lead poisoning rates
 
 Buffalo has the biggest lead poisoning problem in Upstate, with hundreds of children diagnosed each year in black and Hispanic neighborhoods in the East and lower West Sides. The problem dates back years: inner-city neighborhoods accounted for three of the four upstate ZIP codes reporting the most new lead poisoning cases for a three-year period ending in 2012.
 
@@ -73,7 +73,7 @@ Experts say water utilities and health departments tend to downplay the risks of
 
 “I guarantee you: you sample for lead in worst-case Buffalo homes, you’re going to find significant levels of lead,” Edwards said.
 
-## The disparity
+### The disparity
 
 Investigative Post filed Freedom of Information Law requests to obtain records for the sampling conducted in 2002, 2005, 2008, 2011 and 2014.
 
@@ -204,7 +204,7 @@ Edwards called Burstein’s reasoning “narrow minded,” and Lambrinidou said 
 
 “Anybody, and certainly public health professionals who take the time to understand how lead in drinking water works, would know better than to make blanket statements like this that reveal a lack of understanding.”
 
-Residents skeptical
+### Residents skeptical
 
 McFoy, chairman of the Buffalo Water Board, said the city has moved up its sampling program a year ahead of schedule as a result of “heightened awareness” since the crisis in Flint.
 
@@ -218,7 +218,9 @@ East Side residents said they are not hopeful that testing will increase in thei
 
 Adams said she felt similarly.
 
-“I would ask them why they’re not representing us, why they’re not looking out for our best interests,” she said. 
+“I would ask them why they’re not representing us, why they’re not looking out for our best interests,” she said.
+
+<hr>
 
 {% include credits.html %}
 
