@@ -50,7 +50,7 @@ nav li {
   overflow:hidden;
   height: 550px;
 }
-.intro img {
+.intro .wistia_embed {
   position: absolute;
   min-width: 100%;
   z-index: -1;
