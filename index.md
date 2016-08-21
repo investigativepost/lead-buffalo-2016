@@ -226,20 +226,28 @@ Adams said she felt similarly.
 
 <hr>
 
-<img src="img/baby.jpg" class="img-responsive" /><div class="caption"><p>Caption goes here!</p></div>
+<img src="img/baby.jpg" class="img-responsive" />
+<div class="caption"><p>Caption goes here!</p></div>
 
-<img src="img/cap.jpg" class="img-responsive" /><div class="caption"><p>Caption goes here!</p></div>
+<img src="img/cap.jpg" class="img-responsive" />
+<div class="caption"><p>Caption goes here!</p></div>
 
-<img src="img/filters.jpg" class="img-responsive" /><div class="caption"><p>Caption goes here!</p></div>
+<img src="img/filters.jpg" class="img-responsive" />
+<div class="caption"><p>Caption goes here!</p></div>
 
-<img src="img/picture_frame.jpg" class="img-responsive" /><div class="caption"><p>Caption goes here!</p></div>
+<img src="img/picture_frame.jpg" class="img-responsive" />
+<div class="caption"><p>Caption goes here!</p></div>
 
-<img src="img/resident.jpg" class="img-responsive" /><div class="caption"><p>Caption goes here!</p></div>
+<img src="img/resident.jpg" class="img-responsive" />
+<div class="caption"><p>Caption goes here!</p></div>
 
-<img src="img/scratches.jpg" class="img-responsive" /><div class="caption"><p>Caption goes here!</p></div>
+<img src="img/scratches.jpg" class="img-responsive" />
+<div class="caption"><p>Caption goes here!</p></div>
 
-<img src="img/tap_water.jpg" class="img-responsive" /><div class="caption"><p>Caption goes here!</p></div>
+<img src="img/tap_water.jpg" class="img-responsive" />
+<div class="caption"><p>Caption goes here!</p></div>
 
-<img src="img/virginia_tech.jpg" class="img-responsive" /><div class="caption"><p>Caption goes here!</p></div>
+<img src="img/virginia_tech.jpg" class="img-responsive" />
+<div class="caption"><p>Caption goes here!</p></div>
 
 <img src="img/water_flowing.jpg" class="img-responsive" /><div class="caption"><p>Caption goes here!</p></div>
