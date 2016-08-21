@@ -50,7 +50,7 @@ nav li {
   overflow:hidden;
   height: 550px;
 }
-.intro .wistia_embed {
+.intro .wistia_responsive_wrapper{
   position: absolute;
   min-width: 100%;
   z-index: -1;
