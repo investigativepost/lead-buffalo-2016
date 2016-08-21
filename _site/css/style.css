@@ -4,12 +4,17 @@ html, body {
     overflow-x: hidden;
 }
 
-p {
+p, li, ol {
   font-size: 20px;
   margin: 0 auto 30px auto;
   max-width: 960px;
   font-family: Georgia, serif;
   padding: 0 5px 0 5px;
+}
+
+li, ol {
+  max-width: 900px;
+  margin: 0 auto 15px auto;
 }
 
 h1 {
@@ -25,8 +30,9 @@ h3 {
   max-width: 960px;
 }
 
-nav {
+nav li {
   font-family: GnuolaneXl-Regular, Georgia, serif;
+  margin: 0 auto 0 auto;
 }
 
 .map {
@@ -44,8 +50,8 @@ nav {
   overflow:hidden;
   height: 550px;
 }
-.intro img {
-  position: absolute;
+.intro .wistia_responsive_padding {
+  position: absolute !important;
   min-width: 100%;
   z-index: -1;
 }
@@ -80,7 +86,7 @@ nav {
   border-radius: 0 0 4px 4px;
 }
 .caption p {
-  font-size: 16px;
+  font-size: 18px;
   font-family: GnuolaneXl-Regular, Georgia, serif;
   padding: 0;
   margin: 0;

@@ -2,14 +2,15 @@
 
   /* INTRO */
   .intro {
-    height: 300px;
+    height: 200px;
   }
   .intro h1 {
-      padding-top: 100px;
+      padding-top: 80px;
+      font-size: 16px;
   }
   .map {
-    padding-left: 10px;
-    padding-right: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
   }
 
   .point-map {
