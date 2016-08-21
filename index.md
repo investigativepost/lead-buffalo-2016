@@ -114,7 +114,7 @@ McFoy, the Buffalo Water Board chairman, acknowledged that the fliers do not rea
 
 “We know we have significant renters so we’ve had to change our tactics up and actually go door to door in those neighborhoods,” he said.
 
-Possible violation of law
+### Possible violation of law
 
 Federal law requires that at least half the homes sampled are deemed most at-risk. Investigative Post obtained, through the Freedom of Information Law, the records the city said it used to determine the most at-risk homes and the location of lead service lines. The law requires every home sampled have lead plumbing and at least half must have lead service lines that run from the street into homes, which are “pure 100 percent lead,” said Edwards, the Virginia Tech professor.
 
@@ -130,7 +130,7 @@ The Erie County Health Department said the city needs to ensure it is sampling t
 
 “We have required them to investigate current plumbing materials and update their monitoring plan,” a health department spokeswoman said in an Aug. 17 email.
 
-Possible conflict of interest
+### Possible conflict of interest
 
 Investigative Post also found up to a quarter of the homes tested in 2014 were owned by current and former city employees or their family members.
 
@@ -152,7 +152,7 @@ Brown disagreed with the experts’ contention that sampling the homes of curren
 
 “If they request that their water be tested there’s no problem with them making that request just as we would encourage any city resident,” he said.
 
-Inaction and ‘cheating’
+### Inaction and ‘cheating’
 
 Investigative Post found other problems with the testing program.
 
@@ -174,7 +174,7 @@ City officials have since changed the sampling instructions so that they are mor
 
 But the Erie County Health Department has no plans to change its protocols when investigating sources of lead in homes where a child is diagnosed with elevated blood-lead levels.
 
-Health Department ignores risk
+### Health Department ignores risk
 
 Alexis Adams, the East Side resident, said her great-grandson was diagnosed with a high blood-lead level two years ago. She said county health inspectors checked the window sills and walls, but did not find any lead hazards.
 
