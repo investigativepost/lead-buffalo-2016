@@ -51,7 +51,7 @@ nav li {
   height: 550px;
 }
 .intro .wistia_responsive_padding {
-  position: absolute;
+  position: absolute !important;
   min-width: 100%;
   z-index: -1;
 }
