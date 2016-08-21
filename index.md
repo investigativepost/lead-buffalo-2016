@@ -247,6 +247,9 @@ Adams said she felt similarly.
 <div class="container"><img src="img/water_flowing.jpg" class="img-responsive" /></div>
 <div class="caption"><p>Caption goes here!</p></div>
 
+<div class="wistia_responsive_padding" style="padding:56.25% 0 0 0;position:relative;"><div class="wistia_responsive_wrapper" style="height:100%;left:0;position:absolute;top:0;width:100%;"><div class="wistia_embed wistia_async_atl821ixml videoFoam=true" style="height:100%;width:100%">&nbsp;</div></div></div>
+<div class="caption"><p>Caption goes here!</p></div>
+
 <hr>
 
 {% include credits.html %}
