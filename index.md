@@ -220,12 +220,6 @@ Adams said she felt similarly.
 
 “I would ask them why they’re not representing us, why they’re not looking out for our best interests,” she said.
 
-<hr>
-
-{% include credits.html %}
-
-<hr>
-
 <div class="container"><img src="img/baby.jpg" class="img-responsive" /></div>
 <div class="caption"><p>Caption goes here!</p></div>
 
@@ -252,3 +246,9 @@ Adams said she felt similarly.
 
 <div class="container"><img src="img/water_flowing.jpg" class="img-responsive" /></div>
 <div class="caption"><p>Caption goes here!</p></div>
+
+<hr>
+
+{% include credits.html %}
+
+<hr>
