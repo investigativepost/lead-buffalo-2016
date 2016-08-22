@@ -27,9 +27,9 @@ But Investigative Post found serious shortcomings in the city’s testing progra
 
 Two national experts who helped bring to light the lead in drinking water crises in Flint and Washington, D.C., said Investigative Post’s findings are concerning. They are particularly troubled by the lack of testing in high-risk neighborhoods.
 
-“If you’re not sampling in those neighborhoods, how do you know that the water is safe?” said [Marc Edwards, a civil engineering professor at Virginia Tech University](https://www.washingtonpost.com/news/inspired-life/wp/2016/01/26/meet-the-heroic-professor-who-helped-uncover-the-flint-lead-water-crisis/) who uncovered lead in water crises in Flint last year and the nation's capital over a decade ago.
+“If you’re not sampling in those neighborhoods, how do you know that the water is safe?” said [Marc Edwards, a civil engineering professor at Virginia Tech University](https://www.washingtonpost.com/news/inspired-life/wp/2016/01/26/meet-the-heroic-professor-who-helped-uncover-the-flint-lead-water-crisis/), who uncovered lead in water crises in Flint last year and the nation's capital over a decade ago.
 
-“I certainly would take the position that it is morally highly questionable, if not outright wrong,” added [Yanna Lambrinidou](http://www.ait.gr/ait_web_site/conference/olympiaethics/instructors.jsp), a Washington, D.C., activist who served on a federal Environmental Protection Agency advisory panel that recommended revisions to the federal drinking water regulation that deals with lead.
+“I certainly would take the position that it is morally highly questionable, if not outright wrong,” added [Yanna Lambrinidou](http://www.ait.gr/ait_web_site/conference/olympiaethics/instructors.jsp), a Washington, D.C., activist who helped uncover that city's lead in drinking water problems and served on a federal Environmental Protection Agency advisory panel that recommended revisions to the federal drinking water regulation that deals with lead.
 
 In addition to the disparity in the sampling program, Investigative Post found:
 
