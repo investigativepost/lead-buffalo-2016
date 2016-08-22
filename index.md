@@ -9,7 +9,7 @@ description:  Investigative Post looks at lead samples in Buffalo NY from 2002-2
 
 {% include byline.html %}
 
-Neighborhoods on the city’s East and Lower West Sides are “ground zero” for the worst lead poisoning problems in all of Upstate New York. Lead paint is considered the culprit, but the crisis in Flint, Michigan, has raised questions about the safety of the drinking water in cities like Buffalo.
+Neighborhoods on the city’s East and Lower West Sides [are “ground zero”] (http://www.investigativepost.org/2016/05/03/lead-poisoning-much-worse-than-previously-disclosed/) for the worst lead poisoning problems in all of Upstate New York. Lead paint is considered the culprit, but the crisis in Flint, Michigan, has raised questions about the safety of the drinking water in cities like Buffalo.
 
 The testing program used by Buffalo to determine whether drinking water is safe does not target the minority neighborhoods where the lead poisoning problem is concentrated, an analysis by Investigative Post has found.  
 
