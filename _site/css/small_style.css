@@ -2,10 +2,12 @@
 
   /* INTRO */
   .intro {
-    height: 200px;
+    height: 180px;
   }
   .intro h1 {
-      padding-top: 80px;
+      padding-top: 60px;
+      padding-left: 5px;
+      padding-right: 5px;
       font-size: 16px;
   }
   .map {
