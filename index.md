@@ -50,7 +50,8 @@ Oluwole McFoy, chairman of the Buffalo Water Board, acknowledged that there were
 
 Buffalo has the biggest lead poisoning problem in Upstate, with hundreds of children diagnosed each year in black and Hispanic neighborhoods in the East and lower West Sides. The problem dates back years: inner-city neighborhoods accounted for three of the four upstate ZIP codes reporting the most new lead poisoning cases for a three-year period ending in 2012.
 
-<div style="max-width:480px;padding:10px;" class="pull-right"><img src="img/scratches.jpg" class="img-responsive" />
+<!-- scratches  -->
+<div style="max-width:480px;padding:10px;" class="pull-right"><a href="img/scratches.jpg" data-lightbox="scratches" data-title="A lead service line entering a home in Buffalo's East Side."><img src="img/scratches.jpg" class="img-responsive" /></a>
 <div class="caption"><p>A lead service line entering a home in Buffalo's East Side.</p></div>
 </div>
 
