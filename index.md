@@ -126,6 +126,9 @@ Furthermore, many of the records the city provided are from a century ago, some 
 
 “So, how do you know if you’re meeting the law when the records may not have been updated? I mean, it’s hard to believe that in some of those homes the service line hasn’t been replaced in a hundred years.”
 
+<div class="container"><img src="img/virginia_tech.jpg" class="img-responsive" /></div>
+<div class="caption"><p>Marc Edwards, professor of Civil and Environmental Engineering at Virginia Tech University</p></div>
+
 The Erie County Health Department said the city needs to ensure it is sampling the most at risk homes.
 
 “We have required them to investigate current plumbing materials and update their monitoring plan,” a health department spokeswoman said in an Aug. 17 email.
