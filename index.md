@@ -186,7 +186,7 @@ In February, the EPA directed all water utilities to “increase transparency”
 
 “If utilities are not able to demonstrate that they have made progress in this regard, then we have a serious problem on our hands,”  Lambrinidou said.
 
-<div style="max-width:480px;padding:10px;" class="pull-right"><a href="img/water_flowing.jpg" data-lightbox="water_flowing" data-title="Buffalo used all three "cheats" in its water sampling program."><img src="img/water_flowing.jpg" class="img-responsive" /></a>
+<div style="max-width:480px;padding:10px;" class="pull-right"><a href="img/water_flowing.jpg" data-lightbox="water_flowing" data-title="Buffalo used all three 'cheats' in its water sampling program."><img src="img/water_flowing.jpg" class="img-responsive" /></a>
 <div class="caption"><p>Buffalo used all three "cheats" in its water sampling program.</p></div>
 </div>
 
