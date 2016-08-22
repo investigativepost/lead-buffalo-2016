@@ -264,7 +264,7 @@ Adams said she felt similarly.
 
 <div class="row">
 <div class="col-md-4 col-md-offset-4">
-<div class="caption" style="border-radius:4px;margin:10px;"><p>Share:</p>
+<div class="caption" style="border-radius:4px;margin:20px;"><p>Share:</p>
 <!-- Go to www.addthis.com/dashboard to customize your tools -->
 <div class="addthis_inline_share_toolbox"></div>
 </div>
@@ -276,3 +276,9 @@ Adams said she felt similarly.
 {% include credits.html %}
 
 <hr>
+
+<div class="row">
+<div class="col-md-4 col-md-offset-4">
+<div class="caption pull-left" style="margin:20px;border-radius:4px;"><p>Help us grow our nonprofit newsroom with a tax-deductible contribution. <a href="https://www.investigativepost.org/donate/"><strong>Donate Now</strong></a>.</p></div>
+</div>
+</div>
