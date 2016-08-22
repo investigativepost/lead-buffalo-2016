@@ -19,6 +19,8 @@ Consider the disparity: The city collected only five of 300 samples in the past 
 
 By contrast, the city collected 41 out of the 300 samples from homes in the ZIP code that covers predominantly white neighborhoods in North Buffalo where not a single child was diagnosed with high lead levels in recent years.
 
+<div class="pull-left" style="padding:10px;max-width:100%;"><iframe width="640" height="360" style="border-width:0" src="http://interactive.tegna-media.com/video/embed/embed.html?id=2337887&type=video&title=Experts%20Critical%20Of%20Buffalo%20Tap%20Water%20Testing&site=71&playerid=6918249996581&dfpid=32805352&dfpposition=Video_prestream_external§ion=home"></iframe></div>
+
 Nevertheless, Mayor Byron Brown said he wasn’t alarmed by Investigative Post’s findings.
 
 “I’m not concerned because our water is good in the City of Buffalo,” the mayor said.
