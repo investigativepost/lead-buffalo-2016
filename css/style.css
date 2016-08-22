@@ -83,6 +83,7 @@ nav li {
   background-color: #eee;
   max-width: 960px;
   margin: 0 auto;
+  margin-bottom: 15px;
   padding: 10px;
   border-radius: 0 0 4px 4px;
 }
