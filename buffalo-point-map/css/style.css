@@ -70,9 +70,10 @@ a {
   display: flex;
   padding: 0px;
   background: #f5f5f5;
+  overflow: hidden;
 }
 #map, .widgets-container {
-  height: calc(100vh - 24px);
+  height: 100vh;
   flex-direction: row;
 }
 #map {
