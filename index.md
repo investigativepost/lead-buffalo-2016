@@ -183,7 +183,7 @@ In February, the EPA directed all water utilities to “increase transparency”
 “If utilities are not able to demonstrate that they have made progress in this regard, then we have a serious problem on our hands,”  Lambrinidou said.
 
 <div style="max-width:480px;padding:10px;" class="pull-right"><img src="img/water_flowing.jpg" class="img-responsive" />
-<div class="caption"><p>Buffalo employed all three "cheats" in its water sampling program."><p></p></div>
+<div class="caption"><p>Buffalo employed all three "cheats" in its water sampling program."><p></div></div>
 
 In June, [The Guardian](https://www.theguardian.com/environment/2016/jun/02/lead-water-testing-cheats-chicago-boston-philadelphia) newspaper found that at least 33 cities, including Buffalo, used “cheats” that could reduce the amount of lead in drinking water before sampling.
 
