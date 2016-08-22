@@ -262,20 +262,18 @@ Adams said she felt similarly.
 
 “I would ask them why they’re not representing us, why they’re not looking out for our best interests,” she said.
 
+{% include credits.html %}
+
+<hr>
+
 <div class="row">
 <div class="col-md-4 col-md-offset-4">
-<div class="caption" style="border-radius:4px;margin:20px;"><p>Share:</p>
+<div class="caption" style="border-radius:4px;margin:20px;"><p>Share this report:</p>
 <!-- Go to www.addthis.com/dashboard to customize your tools -->
 <div class="addthis_inline_share_toolbox"></div>
 </div>
 </div>
 </div>
-
-<hr>
-
-{% include credits.html %}
-
-<hr>
 
 <div class="row">
 <div class="col-md-4 col-md-offset-4">
