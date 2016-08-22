@@ -38,8 +38,6 @@ In addition to the disparity in the sampling program, Investigative Post found:
 * Buffalo has not acted on the federal recommendations to be transparent about the location of lead service lines, which are the chief source of lead in drinking water.
 * The Erie County Health Department rarely tests drinking water for lead in homes where a child has been diagnosed a high blood-lead level.
 
-<div class="pull-left" style="padding:10px;max-width:100%;"><iframe width="640" height="360" style="border-width:0" src="http://interactive.tegna-media.com/video/embed/embed.html?id=2337887&type=video&title=Experts%20Critical%20Of%20Buffalo%20Tap%20Water%20Testing&site=71&playerid=6918249996581&dfpid=32805352&dfpposition=Video_prestream_external§ion=home"></iframe></div>
-
 One community activist went so far as to accuse city and county officials of misleading residents.
 
 “Basically, what I have found is that everybody from the county down to the local city system will lie out their rear-ends to not tell parents the truth that the water lines are lead,” said Carolette Meadows.
@@ -157,6 +155,8 @@ The [Erie County Health Department](http://www2.erie.gov/health/) said the city 
 ### Possible conflict of interest
 
 Investigative Post also found up to a quarter of the homes tested in 2014 were owned by current and former city employees or their family members.
+
+<div class="pull-left" style="padding:10px;max-width:100%;"><iframe width="640" height="360" style="border-width:0" src="http://interactive.tegna-media.com/video/embed/embed.html?id=2337887&type=video&title=Experts%20Critical%20Of%20Buffalo%20Tap%20Water%20Testing&site=71&playerid=6918249996581&dfpid=32805352&dfpposition=Video_prestream_external§ion=home"></iframe></div>
 
 Among the homes the city sampled that year are those owned by a former chief pumping plant engineer employed by the city for 30 years, a water treatment supervisor employed for 28 years and a chemist employed for 23 years.
 
