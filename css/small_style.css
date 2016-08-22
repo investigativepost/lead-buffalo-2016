@@ -21,5 +21,8 @@
     padding: 20px;
   }
 
+  .author-profiles p {
+    font-size: 12px;
+  }
 
 }
