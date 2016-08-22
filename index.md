@@ -128,13 +128,20 @@ McFoy, the Buffalo Water Board chairman, acknowledged that the fliers do not rea
 
 Federal law requires that at least half the homes sampled are deemed most at-risk. Investigative Post obtained, through the Freedom of Information Law, the records the city said it used to determine the most at-risk homes and the location of lead service lines. The law requires every home sampled have lead plumbing and at least half must have lead service lines that run from the street into homes, which are “pure 100 percent lead,” said Edwards, the Virginia Tech professor.
 
-<div style="width:300px;max-width:480px;padding:10px;" class="pull-right"><div class="wistia_responsive_padding" style="padding:56.25% 0 0 0;position:relative;"><div class="wistia_responsive_wrapper" style="height:100%;left:0;position:absolute;top:0;width:100%;"><div class="wistia_embed wistia_async_atl821ixml videoFoam=true" style="height:100%;width:100%">&nbsp;</div></div></div>
-<div class="caption"><p>Caption goes here!</p></div>
+<div class="row">
+<div class="col-md-12">
+  <div class="col-xs-6">
+    <img src="img/filters1.jpg" class="img-responsive" />
+  </div>
+  <div class="col-xs-6">
+    <div class="wistia_responsive_padding" style="padding:56.25% 0 0 0;position:relative;"><div class="wistia_responsive_wrapper" style="height:100%;left:0;position:absolute;top:0;width:100%;"><div class="wistia_embed wistia_async_atl821ixml videoFoam=true" style="height:100%;width:100%">&nbsp;</div></div></div>
+  </div>
 </div>
 
-<div style="max-width:480px;padding:10px;" class="pull-right"><img src="img/filters.jpg" class="img-responsive" />
-<div class="caption"><p>A dirty (left) and clean filter from Carolette Meadows' water filter system in her basement. The video shows the first draw of her water after she removes the filter. The water is cloudy with unknown floating white and rust-colored particles.</p></div>
+<div class="col-xs-12">
+  <div class="caption"><p>A dirty (left) and clean filter from Carolette Meadows' water filter system in her basement. The video shows the first draw of her water after she removes the filter. The water is cloudy with unknown floating white and rust-colored particles.</p></div>
 </div>
+</div><!-- row -->
 
 Of the 62 homes sampled in 2014, Investigative Post could only verify lead service lines in 28 households based on the records the city provided.
 
