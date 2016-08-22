@@ -71,8 +71,6 @@ Homes built before 1986 are more likely to have plumbing inside that contains le
 
 {% include buffalo-point-map.html %}
 
-<hr>
-
 Like all water utilities, Buffalo’s is required by [federal law](https://www.epa.gov/dwreginfo/lead-and-copper-rule) to periodically test drinking water in a limited number of homes. All the homes tested are required to have some form of lead in the pipes. In Buffalo, an average of 60 homes are sampled every three years.
 
 Experts say water utilities and health departments tend to downplay the risks of lead in drinking water.
@@ -95,8 +93,6 @@ The two most tested ZIP codes — 81 of 300 samples — were in North and South 
 
 
 {% include buffalo-heat-map.html %}
-
-<hr>
 
 East Side residents interviewed by Investigative Post said they are disappointed, but not surprised, by the disparity. Residents say the disparity in testing is part of a larger pattern of neglect by the city.
 
