@@ -23,6 +23,8 @@ Nevertheless, Mayor Byron Brown said he wasn’t alarmed by Investigative Post�
 
 “I’m not concerned because our water is good in the City of Buffalo,” the mayor said.
 
+<div class="pull-left" style="padding:10px;max-width:100%;"><iframe width="640" height="360" style="border-width:0" src="http://interactive.tegna-media.com/video/embed/embed.html?id=2337971&type=video&title=Disparity%20In%20Buffalo%20Tap%20Water%20Testing&site=71&playerid=6918249996581&dfpid=32805352&dfpposition=Video_prestream_external§ion=home"></iframe></div>
+
 But Investigative Post found serious shortcomings in the city’s testing program that extend beyond the racial disparities and call into question the mayor’s claim that the city’s drinking water supply is safe.
 
 Two national experts who helped bring to light the lead in drinking water crises in Flint and Washington, D.C., said Investigative Post’s findings are concerning. They are particularly troubled by the lack of testing in high-risk neighborhoods.
