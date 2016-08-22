@@ -70,7 +70,6 @@ a {
   display: flex;
   padding: 0px;
   background: #f5f5f5;
-  overflow: hidden;
 }
 #map, .widgets-container {
   height: 100vh;
