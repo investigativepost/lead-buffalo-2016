@@ -152,11 +152,11 @@ The [Erie County Health Department](http://www2.erie.gov/health/) said the city 
 
 “We have required them to investigate current plumbing materials and update their monitoring plan,” a health department spokeswoman said in an Aug. 17 email.
 
-<div class="pull-left" style="padding:10px;max-width:100%;"><iframe width="640" height="360" style="border-width:0" src="http://interactive.tegna-media.com/video/embed/embed.html?id=2337887&type=video&title=Experts%20Critical%20Of%20Buffalo%20Tap%20Water%20Testing&site=71&playerid=6918249996581&dfpid=32805352&dfpposition=Video_prestream_external§ion=home"></iframe></div>
-
 ### Possible conflict of interest
 
 Investigative Post also found up to a quarter of the homes tested in 2014 were owned by current and former city employees or their family members.
+
+<div class="pull-left" style="padding:10px;max-width:100%;"><iframe width="640" height="360" style="border-width:0" src="http://interactive.tegna-media.com/video/embed/embed.html?id=2337887&type=video&title=Experts%20Critical%20Of%20Buffalo%20Tap%20Water%20Testing&site=71&playerid=6918249996581&dfpid=32805352&dfpposition=Video_prestream_external§ion=home"></iframe></div>
 
 Among the homes the city sampled that year are those owned by a former chief pumping plant engineer employed by the city for 30 years, a water treatment supervisor employed for 28 years and a chemist employed for 23 years.
 
@@ -164,13 +164,13 @@ In addition, the city sampled homes owned by public works employees, a parking e
 
 Experts said that while testing homes owned by current and former employees, family members and politicians is not illegal, it does raise questions about whether the city is testing the most at-risk homes.
 
-<div style="max-width:480px;padding:10px;" class="pull-right"><a href="img/virginia_tech.jpg" data-lightbox="virginia_tech" data-title="Marc Edwards, Virginia Tech University professor."><img src="img/virginia_tech.jpg" class="img-responsive" /></a>
-<div class="caption"><p>Marc Edwards, Virginia Tech University professor.</p></div>
-</div>
-
 “It seems like they’re sampling more for convenience rather than for really trying to find lead problems and protect public health,” Edwards said.
 
 “Sampling homes of employees, I don’t know what justification you’d have for claiming that those are the worst-case homes in the city.”
+
+<div style="max-width:480px;padding:10px;" class="pull-right"><a href="img/virginia_tech.jpg" data-lightbox="virginia_tech" data-title="Marc Edwards, Virginia Tech University professor."><img src="img/virginia_tech.jpg" class="img-responsive" /></a>
+<div class="caption"><p>Marc Edwards, Virginia Tech University professor.</p></div>
+</div>
 
 Lambrinidou, the D.C. expert, said testing the homes of current and former government employees poses a conflict of interest.
 
