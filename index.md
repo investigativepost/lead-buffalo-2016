@@ -9,7 +9,7 @@ description:  Investigative Post looks at lead samples in Buffalo NY from 2002-2
 
 {% include byline.html %}
 
-Neighborhoods on the city’s East and Lower West Sides [are “ground zero”] (http://www.investigativepost.org/2016/05/03/lead-poisoning-much-worse-than-previously-disclosed/) for the worst lead poisoning problems in all of Upstate New York. Lead paint is considered the culprit, but the crisis in Flint, Michigan, has raised questions about the safety of the drinking water in cities like Buffalo.
+Neighborhoods on the city’s East and Lower West Sides [are “ground zero”](http://www.investigativepost.org/2016/05/03/lead-poisoning-much-worse-than-previously-disclosed/) for the worst lead poisoning problems in all of Upstate New York. Lead paint is considered the culprit, but the crisis in Flint, Michigan, has raised questions about the safety of the drinking water in cities like Buffalo.
 
 The testing program used by Buffalo to determine whether drinking water is safe does not target the minority neighborhoods where the lead poisoning problem is concentrated, an analysis by Investigative Post has found.  
 
@@ -27,9 +27,9 @@ But Investigative Post found serious shortcomings in the city’s testing progra
 
 Two national experts who helped bring to light the lead in drinking water crises in Flint and Washington, D.C., said Investigative Post’s findings are concerning. They are particularly  troubled by the lack of testing in high-risk neighborhoods.
 
-“If you’re not sampling in those neighborhoods, how do you know that the water is safe?” said Marc Edwards, a civil engineering professor at Virginia Tech University.
+“If you’re not sampling in those neighborhoods, how do you know that the water is safe?” said [Marc Edwards, a civil engineering professor at Virginia Tech University](https://www.washingtonpost.com/news/inspired-life/wp/2016/01/26/meet-the-heroic-professor-who-helped-uncover-the-flint-lead-water-crisis/).
 
-“I certainly would take the position that it is morally highly questionable, if not outright wrong,” added Yanna Lambrinidou, a Washington, D.C., activist who served on a federal Environmental Protection Agency advisory panel that recommended revisions to the federal drinking water regulation that deals with lead.
+“I certainly would take the position that it is morally highly questionable, if not outright wrong,” added [Yanna Lambrinidou](http://www.ait.gr/ait_web_site/conference/olympiaethics/instructors.jsp), a Washington, D.C., activist who served on a federal Environmental Protection Agency advisory panel that recommended revisions to the federal drinking water regulation that deals with lead.
 
 In addition to the disparity in the sampling program, Investigative Post found:
 
@@ -42,13 +42,13 @@ One community activist went so far as to accuse city and county officials of mis
 
 “Basically, what I have found is that everybody from the county down to the local city system will lie out their rear-ends to not tell parents the truth that the water lines are lead,” said Carolette Meadows.
 
-Oluwole McFoy, chairman of the Buffalo Water Board, acknowledged that there were “holes” in the sampling program that officials are trying to fix.
+Oluwole McFoy, chairman of the [Buffalo Water Board](http://www.buffalowater.org/), acknowledged that there were “holes” in the sampling program that officials are trying to fix.
 
 “We look at it as: it is not enough to do it the way we’ve been doing it,” he said.
 
 ### High lead poisoning rates
 
-Buffalo has the biggest lead poisoning problem in Upstate, with hundreds of children diagnosed each year in black and Hispanic neighborhoods in the East and lower West Sides. The problem dates back years: inner-city neighborhoods accounted for three of the four upstate ZIP codes reporting the most new lead poisoning cases for a three-year period ending in 2012.
+Buffalo has the biggest lead poisoning problem in Upstate, with hundreds of children diagnosed each year in black and Hispanic neighborhoods in the East and lower West Sides. The [problem dates back years](http://www.investigativepost.org/?s=lead+poisoning&submit.x=0&submit.y=0&submit=Go): inner-city neighborhoods accounted for three of the four upstate ZIP codes reporting the most new lead poisoning cases for a three-year period ending in 2012.
 
 <!-- scratches  -->
 <div style="max-width:480px;padding:10px;" class="pull-right"><a href="img/scratches.jpg" data-lightbox="scratches" data-title="A lead service line entering a home in Buffalo's East Side."><img src="img/scratches.jpg" class="img-responsive" /></a>
@@ -73,7 +73,7 @@ Homes built before 1986 are more likely to have plumbing inside that contains le
 
 <hr>
 
-Like all water utilities, Buffalo’s is required by federal law to periodically test drinking water in a limited number of homes. All the homes tested are required to have some form of lead in the pipes. In Buffalo, an average of 60 homes are sampled every three years.
+Like all water utilities, Buffalo’s is required by [federal law](https://www.epa.gov/dwreginfo/lead-and-copper-rule) to periodically test drinking water in a limited number of homes. All the homes tested are required to have some form of lead in the pipes. In Buffalo, an average of 60 homes are sampled every three years.
 
 Experts say water utilities and health departments tend to downplay the risks of lead in drinking water.
 
@@ -140,7 +140,7 @@ Furthermore, many of the records the city provided are from a century ago, some 
 
 “So, how do you know if you’re meeting the law when the records may not have been updated? I mean, it’s hard to believe that in some of those homes the service line hasn’t been replaced in a hundred years.”
 
-The Erie County Health Department said the city needs to ensure it is sampling the most at risk homes.
+The [Erie County Health Department](http://www2.erie.gov/health/) said the city needs to ensure it is sampling the most at risk homes.
 
 “We have required them to investigate current plumbing materials and update their monitoring plan,” a health department spokeswoman said in an Aug. 17 email.
 
@@ -150,7 +150,7 @@ Investigative Post also found up to a quarter of the homes tested in 2014 were o
 
 Among the homes the city sampled that year are those owned by a former chief pumping plant engineer employed by the city for 30 years, a water treatment supervisor employed for 28 years and a chemist employed for 23 years.
 
-In addition, the city sampled homes owned by public works employees, a parking enforcement officer and a senior engineer. In 2008 and 2011, the city sampled a home owned by state Assemblywoman Crystal Peoples-Stokes.
+In addition, the city sampled homes owned by public works employees, a parking enforcement officer and a senior engineer. In 2008 and 2011, the city sampled a home owned by state [Assemblywoman Crystal Peoples-Stokes](http://assembly.state.ny.us/mem/Crystal-D-Peoples-Stokes).
 
 Experts said that while testing homes owned by current and former employees, family members and politicians is not illegal, it does raise questions about whether the city is testing the most at-risk homes.
 
@@ -183,7 +183,7 @@ In February, the EPA directed all water utilities to “increase transparency”
 </div>
 
 
-In June, The Guardian newspaper found that at least 33 cities, including Buffalo, used “cheats” that could reduce the amount of lead in drinking water before sampling.
+In June, [The Guardian](https://www.theguardian.com/environment/2016/jun/02/lead-water-testing-cheats-chicago-boston-philadelphia) newspaper found that at least 33 cities, including Buffalo, used “cheats” that could reduce the amount of lead in drinking water before sampling.
 
 In fact, Buffalo’s water utility was one of a handful that “cheated” on all three measures by instructing residents to:
 
