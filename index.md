@@ -50,6 +50,10 @@ Oluwole McFoy, chairman of the Buffalo Water Board, acknowledged that there were
 
 Buffalo has the biggest lead poisoning problem in Upstate, with hundreds of children diagnosed each year in black and Hispanic neighborhoods in the East and lower West Sides. The problem dates back years: inner-city neighborhoods accounted for three of the four upstate ZIP codes reporting the most new lead poisoning cases for a three-year period ending in 2012.
 
+<div style="max-width:480px;padding:10px;" class="pull-right"><img src="img/scratches.jpg" class="img-responsive" />
+<div class="caption"><p>A lead service line entering a home in Buffalo's East Side.</p></div>
+</div>
+
 “Buffalo is ground zero in the entire country for lead poisoning,” said David Hahn-Baker, a local environmental activist who has studied the lead problem for three decades.
 
 A child diagnosed with high blood-lead levels can suffer irreversible harm, such as a lowered IQ and developmental delays. In fact, the Centers for Disease Control and Prevention has determined there is no safe blood lead level in children.
@@ -59,9 +63,6 @@ Lead paint in Buffalo’s old housing stock is cited as the chief culprit. But t
 Buffalo’s aging drinking water infrastructure is part of a growing problem across New York. The estimated cost of repairing and updating the state’s drinking water systems is almost $40 billion.
 
 Houses in Buffalo built before 1940 are more likely to have a lead service line that carry water from the street into the house. Experts say these homes are most at-risk for having lead in their drinking water.
-
-<div class="container"><img src="img/scratches.jpg" class="img-responsive" /></div>
-<div class="caption"><p>A lead service line entering a home in Buffalo's East Side.</p></div>
 
 “It’s like drinking water through a 30-foot lead straw,” said Edwards, the national expert.
 
@@ -106,8 +107,9 @@ Robinson’s neighbor, Alexis Adams, said the disparity in the sampling program 
 
 “We’ve got some of the older houses in the city, it’s proven that they’ve got higher lead levels. So, why wouldn’t they take the time to check it out?” she said.
 
-<div class="container"><img src="img/resident.jpg" class="img-responsive" /></div>
+<div class="pull-left" style="max-width:480px;padding:10px;"><img src="img/resident.jpg" class="img-responsive" />
 <div class="caption"><p>East Side resident Alexis Adams said the disparity in Buffalo's sampling program made her “a little frustrated, a little angry and a lot curious.”</p></div>
+</div>
 
 Brown said any resident can volunteer to participate in the city’s sampling program and reminders are inserted in ratepayers’ bills before testing begins.
 
@@ -124,6 +126,10 @@ McFoy, the Buffalo Water Board chairman, acknowledged that the fliers do not rea
 ### Possible violation of law
 
 Federal law requires that at least half the homes sampled are deemed most at-risk. Investigative Post obtained, through the Freedom of Information Law, the records the city said it used to determine the most at-risk homes and the location of lead service lines. The law requires every home sampled have lead plumbing and at least half must have lead service lines that run from the street into homes, which are “pure 100 percent lead,” said Edwards, the Virginia Tech professor.
+
+<div style="width:300px;max-width:480px;padding:10px;" class="pull-right"><div class="wistia_responsive_padding" style="padding:56.25% 0 0 0;position:relative;"><div class="wistia_responsive_wrapper" style="height:100%;left:0;position:absolute;top:0;width:100%;"><div class="wistia_embed wistia_async_atl821ixml videoFoam=true" style="height:100%;width:100%">&nbsp;</div></div></div>
+<div class="caption"><p>Caption goes here!</p></div>
+</div>
 
 Of the 62 homes sampled in 2014, Investigative Post could only verify lead service lines in 28 households based on the records the city provided.
 
@@ -151,8 +157,9 @@ Experts said that while testing homes owned by current and former employees, fam
 
 “Sampling homes of employees, I don’t know what justification you’d have for claiming that those are the worst-case homes in the city.”
 
-<div class="container"><img src="img/virginia_tech.jpg" class="img-responsive" /></div>
+<div style="max-width:480px;padding:10px;" class="pull-right"><img src="img/virginia_tech.jpg" class="img-responsive" />
 <div class="caption"><p>Marc Edwards, professor of Civil and Environmental Engineering at Virginia Tech University.</p></div>
+</div>
 
 Lambrinidou, the D.C. expert, said testing the homes of current and former government employees poses a conflict of interest.
 
@@ -170,8 +177,9 @@ In February, the EPA directed all water utilities to “increase transparency”
 
 “If utilities are not able to demonstrate that they have made progress in this regard, then we have a serious problem on our hands,”  Lambrinidou said.
 
-<div class="container"><img src="img/water_flowing.jpg" class="img-responsive" /></div>
+<div style="max-width:480px;padding:10px;" class="pull-right"><img src="img/water_flowing.jpg" class="img-responsive" />
 <div class="caption"><p></p></div>
+</div>
 
 
 In June, The Guardian newspaper found that at least 33 cities, including Buffalo, used “cheats” that could reduce the amount of lead in drinking water before sampling.
@@ -194,14 +202,15 @@ Alexis Adams, the East Side resident, said her great-grandson was diagnosed with
 
 What did the county health department conclude?
 
+<div style="max-width:480px;padding:10px;" class="pull-left"><img src="img/picture_frame.jpg" class="img-responsive" />
+<div class="caption"><p>Carolette Meadows and her daughter in a family photo.</p></div>
+</div>
+
 “They said primarily they think he was putting pennies in his mouth, coins in his mouth,” she said. “That’s the best they could come up with.”
 
 “They didn’t check the water,” she added.
 
 Meadows, the Buffalo activist, had a similar experience after her daughter was diagnosed with an elevated blood lead level. The only difference was that the health department said her daughter’s exposure came from the soil.
-
-<div class="container"><img src="img/picture_frame.jpg" class="img-responsive" /></div>
-<div class="caption"><p>Carolette Meadows and her daughter in a family photo.</p></div>
 
 Although soil can be a source of lead exposure, Meadows said her daughter rarely played in the yard.
 
@@ -209,14 +218,15 @@ Although soil can be a source of lead exposure, Meadows said her daughter rarely
 
 “I didn’t know any better at the time. I just had a suspicion that they were not telling me the truth.”
 
-<div class="container"><img src="img/tap_water.jpg" class="img-responsive" /></div>
-<div class="caption"><p>Carolette Meadows uses a filter that can remove lead for her kitchen faucet tap water.</p></div>
-
 Commissioner of Health Gale Burstein refused an interview request. She said in a prepared statement that the county does not routinely test the water in the houses of children diagnosed with elevated lead levels in their blood.
 
 In her statement, Burstein said county inspectors have identified lead paint “as the primary source of lead in our investigation of elevated blood lead levels.”
 
 “If presented with evidence that tap water was becoming an identified source of lead poisoning, ECDOH would absolutely consider modification of our testing protocol to include tap water,” she said.
+
+<div style="max-width:480px;padding:10px;" class="pull-right"><img src="img/tap_water.jpg" class="img-responsive" />
+<div class="caption"><p>Carolette Meadows uses a filter that can remove lead for her kitchen faucet tap water.</p></div>
+</div>
 
 Edwards called Burstein’s reasoning “narrow minded,” and Lambrinidou said it was  “unconscionable.”
 
@@ -230,6 +240,10 @@ McFoy, chairman of the Buffalo Water Board, said the city has moved up its sampl
 
 He said the city has more than doubled the number of homes it is testing this round to “ensure that we have complete coverage in the city.” McFoy said officials have visited block clubs, called on Common Council members to help recruit residents and gone door to door in undersampled neighborhoods.
 
+<div style="max-width:480px;padding:10px;" class="pull-right"><img src="img/filters.jpg" class="img-responsive" />
+<div class="caption"><p>A dirty (left) and clean filter from Carolette Meadows' water filter system in her basement.</p></div>
+</div>
+
 “We want to simply ensure that we have complete coverage in the city,” McFoy said.
 
 East Side residents said they are not hopeful that testing will increase in their neighborhoods.
@@ -239,14 +253,6 @@ East Side residents said they are not hopeful that testing will increase in thei
 Adams said she felt similarly.
 
 “I would ask them why they’re not representing us, why they’re not looking out for our best interests,” she said.
-
-
-<div class="container"><img src="img/filters.jpg" class="img-responsive" /></div>
-<div class="caption"><p>A dirty (left) and clean filter from Carolette Meadows' water filter system in her basement.</p></div>
-
-
-<div class="wistia_responsive_padding" style="padding:56.25% 0 0 0;position:relative;"><div class="wistia_responsive_wrapper" style="height:100%;left:0;position:absolute;top:0;width:100%;"><div class="wistia_embed wistia_async_atl821ixml videoFoam=true" style="height:100%;width:100%">&nbsp;</div></div></div>
-<div class="caption"><p>Caption goes here!</p></div>
 
 <hr>
 
