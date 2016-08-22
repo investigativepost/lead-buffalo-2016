@@ -128,6 +128,7 @@ McFoy, the Buffalo Water Board chairman, acknowledged that the fliers do not rea
 
 Federal law requires that at least half the homes sampled are deemed most at-risk. Investigative Post obtained, through the Freedom of Information Law, the records the city said it used to determine the most at-risk homes and the location of lead service lines. The law requires every home sampled have lead plumbing and at least half must have lead service lines that run from the street into homes, which are “pure 100 percent lead,” said Edwards, the Virginia Tech professor.
 
+<!-- side by side image/video -->
 <div class="row">
 <div class="col-md-12">
   <div class="col-xs-6">
