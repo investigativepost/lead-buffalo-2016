@@ -126,9 +126,6 @@ Furthermore, many of the records the city provided are from a century ago, some 
 
 “So, how do you know if you’re meeting the law when the records may not have been updated? I mean, it’s hard to believe that in some of those homes the service line hasn’t been replaced in a hundred years.”
 
-<div class="container"><img src="img/virginia_tech.jpg" class="img-responsive" /></div>
-<div class="caption"><p>Marc Edwards, professor of Civil and Environmental Engineering at Virginia Tech University</p></div>
-
 The Erie County Health Department said the city needs to ensure it is sampling the most at risk homes.
 
 “We have required them to investigate current plumbing materials and update their monitoring plan,” a health department spokeswoman said in an Aug. 17 email.
@@ -146,6 +143,9 @@ Experts said that while testing homes owned by current and former employees, fam
 “It seems like they’re sampling more for convenience rather than for really trying to find lead problems and protect public health,” Edwards said.
 
 “Sampling homes of employees, I don’t know what justification you’d have for claiming that those are the worst-case homes in the city.”
+
+<div class="container"><img src="img/virginia_tech.jpg" class="img-responsive" /></div>
+<div class="caption"><p>Marc Edwards, professor of Civil and Environmental Engineering at Virginia Tech University</p></div>
 
 Lambrinidou, the D.C. expert, said testing the homes of current and former government employees poses a conflict of interest.
 
@@ -223,32 +223,28 @@ Adams said she felt similarly.
 
 “I would ask them why they’re not representing us, why they’re not looking out for our best interests,” she said.
 
-<div class="container"><img src="img/baby.jpg" class="img-responsive" /></div>
-<div class="caption"><p>Caption goes here!</p></div>
 
-<div class="container"><img src="img/cap.jpg" class="img-responsive" /></div>
-<div class="caption"><p>Caption goes here!</p></div>
 
 <div class="container"><img src="img/filters.jpg" class="img-responsive" /></div>
-<div class="caption"><p>Caption goes here!</p></div>
+<div class="caption"><p>A dirty (left) and clean filter from Carolette Meadows' water filter system in her basement.</p></div>
 
 <div class="container"><img src="img/picture_frame.jpg" class="img-responsive" /></div>
-<div class="caption"><p>Caption goes here!</p></div>
+<div class="caption"><p>Carolette Meadows and her daughter in a family photo.</p></div>
 
 <div class="container"><img src="img/resident.jpg" class="img-responsive" /></div>
-<div class="caption"><p>Caption goes here!</p></div>
+<div class="caption"><p>East Side resident Alexis Adams said the disparity in Buffalo's sampling program made her “a little frustrated, a little angry and a lot curious.”</p></div>
 
 <div class="container"><img src="img/scratches.jpg" class="img-responsive" /></div>
-<div class="caption"><p>Caption goes here!</p></div>
+<div class="caption"><p>A lead service line entering a home in Buffalo's East Side.</p></div>
 
 <div class="container"><img src="img/tap_water.jpg" class="img-responsive" /></div>
-<div class="caption"><p>Caption goes here!</p></div>
+<div class="caption"><p>Carolette Meadows uses a filter that can remove lead for her kitchen faucet tap water.</p></div>
 
 <div class="container"><img src="img/virginia_tech.jpg" class="img-responsive" /></div>
-<div class="caption"><p>Caption goes here!</p></div>
+<div class="caption"><p>Marc Edwards, professor of Civil and Environmental Engineering at Virginia Tech University</p></div>
 
 <div class="container"><img src="img/water_flowing.jpg" class="img-responsive" /></div>
-<div class="caption"><p>Caption goes here!</p></div>
+<div class="caption"><p></p></div>
 
 <div class="wistia_responsive_padding" style="padding:56.25% 0 0 0;position:relative;"><div class="wistia_responsive_wrapper" style="height:100%;left:0;position:absolute;top:0;width:100%;"><div class="wistia_embed wistia_async_atl821ixml videoFoam=true" style="height:100%;width:100%">&nbsp;</div></div></div>
 <div class="caption"><p>Caption goes here!</p></div>
