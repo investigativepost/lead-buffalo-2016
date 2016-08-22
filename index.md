@@ -57,7 +57,11 @@ A child diagnosed with high blood-lead levels can suffer irreversible harm, such
 Lead paint in Buffalo’s old housing stock is cited as the chief culprit. But the crisis in Flint, where dangerous levels of lead were found in drinking water in February 2015, has raised serious questions about water quality in cities like Buffalo that have older infrastructure.
 
 Buffalo’s aging drinking water infrastructure is part of a growing problem across New York. The estimated cost of repairing and updating the state’s drinking water systems is almost $40 billion.
+
 Houses in Buffalo built before 1940 are more likely to have a lead service line that carry water from the street into the house. Experts say these homes are most at-risk for having lead in their drinking water.
+
+<div class="container"><img src="img/scratches.jpg" class="img-responsive" /></div>
+<div class="caption"><p>A lead service line entering a home in Buffalo's East Side.</p></div>
 
 “It’s like drinking water through a 30-foot lead straw,” said Edwards, the national expert.
 
@@ -102,6 +106,9 @@ Robinson’s neighbor, Alexis Adams, said the disparity in the sampling program 
 
 “We’ve got some of the older houses in the city, it’s proven that they’ve got higher lead levels. So, why wouldn’t they take the time to check it out?” she said.
 
+<div class="container"><img src="img/resident.jpg" class="img-responsive" /></div>
+<div class="caption"><p>East Side resident Alexis Adams said the disparity in Buffalo's sampling program made her “a little frustrated, a little angry and a lot curious.”</p></div>
+
 Brown said any resident can volunteer to participate in the city’s sampling program and reminders are inserted in ratepayers’ bills before testing begins.
 
 “We’re not ignoring any neighborhood,” he said. “They have the ability to contact us and request that their water be tested.”
@@ -145,7 +152,7 @@ Experts said that while testing homes owned by current and former employees, fam
 “Sampling homes of employees, I don’t know what justification you’d have for claiming that those are the worst-case homes in the city.”
 
 <div class="container"><img src="img/virginia_tech.jpg" class="img-responsive" /></div>
-<div class="caption"><p>Marc Edwards, professor of Civil and Environmental Engineering at Virginia Tech University</p></div>
+<div class="caption"><p>Marc Edwards, professor of Civil and Environmental Engineering at Virginia Tech University.</p></div>
 
 Lambrinidou, the D.C. expert, said testing the homes of current and former government employees poses a conflict of interest.
 
@@ -189,11 +196,17 @@ What did the county health department conclude?
 
 Meadows, the Buffalo activist, had a similar experience after her daughter was diagnosed with an elevated blood lead level. The only difference was that the health department said her daughter’s exposure came from the soil.
 
+<div class="container"><img src="img/picture_frame.jpg" class="img-responsive" /></div>
+<div class="caption"><p>Carolette Meadows and her daughter in a family photo.</p></div>
+
 Although soil can be a source of lead exposure, Meadows said her daughter rarely played in the yard.
 
 “They never tested the water,” she said.
 
 “I didn’t know any better at the time. I just had a suspicion that they were not telling me the truth.”
+
+<div class="container"><img src="img/tap_water.jpg" class="img-responsive" /></div>
+<div class="caption"><p>Carolette Meadows uses a filter that can remove lead for her kitchen faucet tap water.</p></div>
 
 Commissioner of Health Gale Burstein refused an interview request. She said in a prepared statement that the county does not routinely test the water in the houses of children diagnosed with elevated lead levels in their blood.
 
@@ -224,24 +237,8 @@ Adams said she felt similarly.
 “I would ask them why they’re not representing us, why they’re not looking out for our best interests,” she said.
 
 
-
 <div class="container"><img src="img/filters.jpg" class="img-responsive" /></div>
 <div class="caption"><p>A dirty (left) and clean filter from Carolette Meadows' water filter system in her basement.</p></div>
-
-<div class="container"><img src="img/picture_frame.jpg" class="img-responsive" /></div>
-<div class="caption"><p>Carolette Meadows and her daughter in a family photo.</p></div>
-
-<div class="container"><img src="img/resident.jpg" class="img-responsive" /></div>
-<div class="caption"><p>East Side resident Alexis Adams said the disparity in Buffalo's sampling program made her “a little frustrated, a little angry and a lot curious.”</p></div>
-
-<div class="container"><img src="img/scratches.jpg" class="img-responsive" /></div>
-<div class="caption"><p>A lead service line entering a home in Buffalo's East Side.</p></div>
-
-<div class="container"><img src="img/tap_water.jpg" class="img-responsive" /></div>
-<div class="caption"><p>Carolette Meadows uses a filter that can remove lead for her kitchen faucet tap water.</p></div>
-
-<div class="container"><img src="img/virginia_tech.jpg" class="img-responsive" /></div>
-<div class="caption"><p>Marc Edwards, professor of Civil and Environmental Engineering at Virginia Tech University</p></div>
 
 <div class="container"><img src="img/water_flowing.jpg" class="img-responsive" /></div>
 <div class="caption"><p></p></div>
