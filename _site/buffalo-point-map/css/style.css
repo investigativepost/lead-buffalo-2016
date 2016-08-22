@@ -68,7 +68,7 @@ a {
 
 .container {
   display: flex;
-  padding: 12px;
+  padding: 0px;
   background: #f5f5f5;
 }
 #map, .widgets-container {
