@@ -250,6 +250,8 @@ Edwards called Burstein’s reasoning “narrow minded,” and Lambrinidou said 
 
 McFoy, chairman of the Buffalo Water Board, said the city has moved up its sampling program a year ahead of schedule as a result of “heightened awareness” since the crisis in Flint.
 
+<div class="caption pull-left" style="max-width:400px;margin:20px;border-radius:4px;background-color:#333;color:#eee;"><img class="img-responsive" src="http://ipost.wpengine.netdna-cdn.com/wp-content/themes/ip/images/investigativepost-white.png"/><p>Investigative Post is hosting a summit on lead poisoning Nov. 16 featuring reporter Dan Telvock and national experts. <a href="http://investigativepost.org/events/">Click here for details</a>.</p></div>
+
 He said the city has more than doubled the number of homes it is testing this round to “ensure that we have complete coverage in the city.” McFoy said officials have visited block clubs, called on Common Council members to help recruit residents and gone door to door in undersampled neighborhoods.
 
 “We want to simply ensure that we have complete coverage in the city,” McFoy said.
