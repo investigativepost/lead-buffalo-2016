@@ -156,9 +156,9 @@ The [Erie County Health Department](http://www2.erie.gov/health/) said the city 
 
 Investigative Post also found up to a quarter of the homes tested in 2014 were owned by current and former city employees or their family members.
 
-<div class="pull-left" style="padding:10px;max-width:100%;"><iframe width="640" height="360" style="border-width:0" src="http://interactive.tegna-media.com/video/embed/embed.html?id=2337887&type=video&title=Experts%20Critical%20Of%20Buffalo%20Tap%20Water%20Testing&site=71&playerid=6918249996581&dfpid=32805352&dfpposition=Video_prestream_external§ion=home"></iframe></div>
-
 Among the homes the city sampled that year are those owned by a former chief pumping plant engineer employed by the city for 30 years, a water treatment supervisor employed for 28 years and a chemist employed for 23 years.
+
+<div class="pull-left" style="padding:10px;max-width:100%;"><iframe width="640" height="360" style="border-width:0" src="http://interactive.tegna-media.com/video/embed/embed.html?id=2337887&type=video&title=Experts%20Critical%20Of%20Buffalo%20Tap%20Water%20Testing&site=71&playerid=6918249996581&dfpid=32805352&dfpposition=Video_prestream_external§ion=home"></iframe></div>
 
 In addition, the city sampled homes owned by public works employees, a parking enforcement officer and a senior engineer. In 2008 and 2011, the city sampled a home owned by state [Assemblywoman Crystal Peoples-Stokes](http://assembly.state.ny.us/mem/Crystal-D-Peoples-Stokes).
 
