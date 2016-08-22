@@ -159,7 +159,7 @@ In addition, the city sampled homes owned by public works employees, a parking e
 Experts said that while testing homes owned by current and former employees, family members and politicians is not illegal, it does raise questions about whether the city is testing the most at-risk homes.
 
 <div style="max-width:480px;padding:10px;" class="pull-right"><img src="img/virginia_tech.jpg" class="img-responsive" />
-<div class="caption"><p>Marc Edwards, professor of Civil and Environmental Engineering at Virginia Tech University.</p></div>
+<div class="caption"><p>Marc Edwards, Virginia Tech University's civil and environmental engineering professor.</p></div>
 </div>
 
 “It seems like they’re sampling more for convenience rather than for really trying to find lead problems and protect public health,” Edwards said.
@@ -183,7 +183,7 @@ In February, the EPA directed all water utilities to “increase transparency”
 “If utilities are not able to demonstrate that they have made progress in this regard, then we have a serious problem on our hands,”  Lambrinidou said.
 
 <div style="max-width:480px;padding:10px;" class="pull-right"><img src="img/water_flowing.jpg" class="img-responsive" />
-<div class="caption"><p></p></div>
+<div class="Buffalo employed all three "cheats" in its water sampling program."><p></p></div>
 </div>
 
 In June, [The Guardian](https://www.theguardian.com/environment/2016/jun/02/lead-water-testing-cheats-chicago-boston-philadelphia) newspaper found that at least 33 cities, including Buffalo, used “cheats” that could reduce the amount of lead in drinking water before sampling.
@@ -225,7 +225,7 @@ Although soil can be a source of lead exposure, Meadows said her daughter rarely
 Commissioner of Health Gale Burstein refused an interview request. She said in a prepared statement that the county does not routinely test the water in the houses of children diagnosed with elevated lead levels in their blood.
 
 <div style="max-width:480px;padding:10px;" class="pull-right"><img src="img/tap_water.jpg" class="img-responsive" />
-<div class="caption"><p>Carolette Meadows uses a filter that can remove lead for her kitchen faucet tap water.</p></div>
+<div class="caption"><p>Carolette Meadows uses a filter to remove lead for her kitchen faucet tap water.</p></div>
 </div>
 
 In her statement, Burstein said county inspectors have identified lead paint “as the primary source of lead in our investigation of elevated blood lead levels.”
