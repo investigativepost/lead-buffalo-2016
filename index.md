@@ -29,7 +29,7 @@ Two national experts who helped bring to light the lead in drinking water crises
 
 “If you’re not sampling in those neighborhoods, how do you know that the water is safe?” said [Marc Edwards, a civil engineering professor at Virginia Tech University](https://www.washingtonpost.com/news/inspired-life/wp/2016/01/26/meet-the-heroic-professor-who-helped-uncover-the-flint-lead-water-crisis/), who helped uncover the drinking water crisis in Flint last year and one in the nation's capital over a decade ago.
 
-“I certainly would take the position that it is morally highly questionable, if not outright wrong,” added [Yanna Lambrinidou](http://www.ait.gr/ait_web_site/conference/olympiaethics/instructors.jsp), a Washington, D.C., activist who helped uncover that city's lead in drinking water problems and served on a federal Environmental Protection Agency advisory panel that recommended revisions to the federal drinking water regulation that deals with lead.
+“I certainly would take the position that it is morally highly questionable, if not outright wrong,” added [Yanna Lambrinidou](http://www.ait.gr/ait_web_site/conference/olympiaethics/instructors.jsp), a Washington, D.C., activist who helped uncover that [city's lead in drinking water problems](http://cenblog.org/2009/01/lead-in-dc%E2%80%99s-drinking-water/) and served on a federal Environmental Protection Agency advisory panel that recommended revisions to the federal drinking water regulation that deals with lead.
 
 In addition to the disparity in the sampling program, Investigative Post found:
 
