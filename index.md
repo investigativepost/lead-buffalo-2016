@@ -170,6 +170,10 @@ In February, the EPA directed all water utilities to “increase transparency”
 
 “If utilities are not able to demonstrate that they have made progress in this regard, then we have a serious problem on our hands,”  Lambrinidou said.
 
+<div class="container"><img src="img/water_flowing.jpg" class="img-responsive" /></div>
+<div class="caption"><p></p></div>
+
+
 In June, The Guardian newspaper found that at least 33 cities, including Buffalo, used “cheats” that could reduce the amount of lead in drinking water before sampling.
 
 In fact, Buffalo’s water utility was one of a handful that “cheated” on all three measures by instructing residents to:
@@ -240,8 +244,6 @@ Adams said she felt similarly.
 <div class="container"><img src="img/filters.jpg" class="img-responsive" /></div>
 <div class="caption"><p>A dirty (left) and clean filter from Carolette Meadows' water filter system in her basement.</p></div>
 
-<div class="container"><img src="img/water_flowing.jpg" class="img-responsive" /></div>
-<div class="caption"><p></p></div>
 
 <div class="wistia_responsive_padding" style="padding:56.25% 0 0 0;position:relative;"><div class="wistia_responsive_wrapper" style="height:100%;left:0;position:absolute;top:0;width:100%;"><div class="wistia_embed wistia_async_atl821ixml videoFoam=true" style="height:100%;width:100%">&nbsp;</div></div></div>
 <div class="caption"><p>Caption goes here!</p></div>
