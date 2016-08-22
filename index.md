@@ -225,7 +225,7 @@ Although soil can be a source of lead exposure, Meadows said her daughter rarely
 Commissioner of Health Gale Burstein refused an interview request. She said in a prepared statement that the county does not routinely test the water in the houses of children diagnosed with elevated lead levels in their blood.
 
 <div style="max-width:480px;padding:10px;" class="pull-right"><img src="img/tap_water.jpg" class="img-responsive" />
-<div class="caption"><p>Carolette Meadows uses a filter to remove lead for her kitchen faucet tap water.</p></div>
+<div class="caption"><p>Carolette Meadows has a kitchen tap filter to remove lead from her water.</p></div>
 </div>
 
 In her statement, Burstein said county inspectors have identified lead paint “as the primary source of lead in our investigation of elevated blood lead levels.”
