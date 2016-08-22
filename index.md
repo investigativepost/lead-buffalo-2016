@@ -132,6 +132,10 @@ Federal law requires that at least half the homes sampled are deemed most at-ris
 <div class="caption"><p>Caption goes here!</p></div>
 </div>
 
+<div style="max-width:480px;padding:10px;" class="pull-right"><img src="img/filters.jpg" class="img-responsive" />
+<div class="caption"><p>A dirty (left) and clean filter from Carolette Meadows' water filter system in her basement. The video shows the first draw of her water after she removes the filter. The water is cloudy with unknown floating white and rust-colored particles.</p></div>
+</div>
+
 Of the 62 homes sampled in 2014, Investigative Post could only verify lead service lines in 28 households based on the records the city provided.
 
 Furthermore, many of the records the city provided are from a century ago, some of which could be inaccurate. For example, most of the records do not indicate if a lead service line had been replaced.
@@ -154,13 +158,13 @@ In addition, the city sampled homes owned by public works employees, a parking e
 
 Experts said that while testing homes owned by current and former employees, family members and politicians is not illegal, it does raise questions about whether the city is testing the most at-risk homes.
 
-“It seems like they’re sampling more for convenience rather than for really trying to find lead problems and protect public health,” Edwards said.
-
-“Sampling homes of employees, I don’t know what justification you’d have for claiming that those are the worst-case homes in the city.”
-
 <div style="max-width:480px;padding:10px;" class="pull-right"><img src="img/virginia_tech.jpg" class="img-responsive" />
 <div class="caption"><p>Marc Edwards, professor of Civil and Environmental Engineering at Virginia Tech University.</p></div>
 </div>
+
+“It seems like they’re sampling more for convenience rather than for really trying to find lead problems and protect public health,” Edwards said.
+
+“Sampling homes of employees, I don’t know what justification you’d have for claiming that those are the worst-case homes in the city.”
 
 Lambrinidou, the D.C. expert, said testing the homes of current and former government employees poses a conflict of interest.
 
@@ -181,7 +185,6 @@ In February, the EPA directed all water utilities to “increase transparency”
 <div style="max-width:480px;padding:10px;" class="pull-right"><img src="img/water_flowing.jpg" class="img-responsive" />
 <div class="caption"><p></p></div>
 </div>
-
 
 In June, [The Guardian](https://www.theguardian.com/environment/2016/jun/02/lead-water-testing-cheats-chicago-boston-philadelphia) newspaper found that at least 33 cities, including Buffalo, used “cheats” that could reduce the amount of lead in drinking water before sampling.
 
@@ -221,13 +224,13 @@ Although soil can be a source of lead exposure, Meadows said her daughter rarely
 
 Commissioner of Health Gale Burstein refused an interview request. She said in a prepared statement that the county does not routinely test the water in the houses of children diagnosed with elevated lead levels in their blood.
 
-In her statement, Burstein said county inspectors have identified lead paint “as the primary source of lead in our investigation of elevated blood lead levels.”
-
-“If presented with evidence that tap water was becoming an identified source of lead poisoning, ECDOH would absolutely consider modification of our testing protocol to include tap water,” she said.
-
 <div style="max-width:480px;padding:10px;" class="pull-right"><img src="img/tap_water.jpg" class="img-responsive" />
 <div class="caption"><p>Carolette Meadows uses a filter that can remove lead for her kitchen faucet tap water.</p></div>
 </div>
+
+In her statement, Burstein said county inspectors have identified lead paint “as the primary source of lead in our investigation of elevated blood lead levels.”
+
+“If presented with evidence that tap water was becoming an identified source of lead poisoning, ECDOH would absolutely consider modification of our testing protocol to include tap water,” she said.
 
 Edwards called Burstein’s reasoning “narrow minded,” and Lambrinidou said it was  “unconscionable.”
 
@@ -240,10 +243,6 @@ Edwards called Burstein’s reasoning “narrow minded,” and Lambrinidou said 
 McFoy, chairman of the Buffalo Water Board, said the city has moved up its sampling program a year ahead of schedule as a result of “heightened awareness” since the crisis in Flint.
 
 He said the city has more than doubled the number of homes it is testing this round to “ensure that we have complete coverage in the city.” McFoy said officials have visited block clubs, called on Common Council members to help recruit residents and gone door to door in undersampled neighborhoods.
-
-<div style="max-width:480px;padding:10px;" class="pull-right"><img src="img/filters.jpg" class="img-responsive" />
-<div class="caption"><p>A dirty (left) and clean filter from Carolette Meadows' water filter system in her basement.</p></div>
-</div>
 
 “We want to simply ensure that we have complete coverage in the city,” McFoy said.
 
