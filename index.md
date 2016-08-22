@@ -15,7 +15,7 @@ The testing program used by Buffalo to determine whether drinking water is safe 
 
 Instead, the city has focused on predominantly white neighborhoods in North and South Buffalo that report few, if any, lead poisoning cases.
 
-Consider the disparity: The city collected only five of 300 samples in the past five rounds of testing from homes in the ZIP Code located in the heart of the East Side.
+Consider the disparity: The city collected only five of 300 samples in the past five rounds of testing from homes in the ZIP code located in the heart of the East Side.
 
 By contrast, the city collected 41 out of the 300 samples from homes in the ZIP Code that covers predominantly white neighborhoods in North Buffalo where not a single child was diagnosed with high lead levels in recent years.
 
@@ -159,7 +159,7 @@ In addition, the city sampled homes owned by public works employees, a parking e
 Experts said that while testing homes owned by current and former employees, family members and politicians is not illegal, it does raise questions about whether the city is testing the most at-risk homes.
 
 <div style="max-width:480px;padding:10px;" class="pull-right"><img src="img/virginia_tech.jpg" class="img-responsive" />
-<div class="caption"><p>Marc Edwards, Virginia Tech University's civil and environmental engineering professor.</p></div>
+<div class="caption"><p>Marc Edwards, Virginia Tech University professor.</p></div>
 </div>
 
 “It seems like they’re sampling more for convenience rather than for really trying to find lead problems and protect public health,” Edwards said.
