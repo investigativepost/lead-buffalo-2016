@@ -104,7 +104,7 @@ Robinson’s neighbor, Alexis Adams, said the disparity in the sampling program 
 
 “We’ve got some of the older houses in the city, it’s proven that they’ve got higher lead levels. So, why wouldn’t they take the time to check it out?” she said.
 
-<div class="pull-left" style="max-width:480px;padding:10px;"><img src="img/resident.jpg" class="img-responsive" />
+<div class="pull-left" style="max-width:480px;padding:10px;"><a href="img/resident.jpg" data-lightbox="resident" data-title="East Side resident Alexis Adams said the disparity in Buffalo's sampling program made her 'a little frustrated, a little angry and a lot curious.'"><img src="img/resident.jpg" class="img-responsive" /></a>
 <div class="caption"><p>East Side resident Alexis Adams said the disparity in Buffalo's sampling program made her “a little frustrated, a little angry and a lot curious.”</p></div>
 </div>
 
@@ -128,7 +128,7 @@ Federal law requires that at least half the homes sampled are deemed most at-ris
 <div class="row">
 <div class="col-md-12">
   <div class="col-xs-6">
-    <img src="img/filters1.jpg" class="img-responsive" />
+    <a href="img/filters1.jpg" data-lightbox="filters1" data-title="A dirty and clean filter from Carolette Meadows' water filter system in her basement."><img src="img/filters1.jpg" class="img-responsive" /></a>
   </div>
   <div class="col-xs-6">
     <div class="wistia_responsive_padding" style="padding:56.25% 0 0 0;position:relative;"><div class="wistia_responsive_wrapper" style="height:100%;left:0;position:absolute;top:0;width:100%;"><div class="wistia_embed wistia_async_atl821ixml videoFoam=true" style="height:100%;width:100%">&nbsp;</div></div></div>
@@ -162,7 +162,7 @@ In addition, the city sampled homes owned by public works employees, a parking e
 
 Experts said that while testing homes owned by current and former employees, family members and politicians is not illegal, it does raise questions about whether the city is testing the most at-risk homes.
 
-<div style="max-width:480px;padding:10px;" class="pull-right"><img src="img/virginia_tech.jpg" class="img-responsive" />
+<div style="max-width:480px;padding:10px;" class="pull-right"><a href="img/virginia_tech.jpg" data-lightbox="virginia_tech" data-title="Marc Edwards, Virginia Tech University professor."><img src="img/virginia_tech.jpg" class="img-responsive" /></a>
 <div class="caption"><p>Marc Edwards, Virginia Tech University professor.</p></div>
 </div>
 
@@ -186,7 +186,7 @@ In February, the EPA directed all water utilities to “increase transparency”
 
 “If utilities are not able to demonstrate that they have made progress in this regard, then we have a serious problem on our hands,”  Lambrinidou said.
 
-<div style="max-width:480px;padding:10px;" class="pull-right"><img src="img/water_flowing.jpg" class="img-responsive" />
+<div style="max-width:480px;padding:10px;" class="pull-right"><a href="img/water_flowing.jpg" data-lightbox="water_flowing" data-title="Buffalo used all three "cheats" in its water sampling program."><img src="img/water_flowing.jpg" class="img-responsive" /></a>
 <div class="caption"><p>Buffalo used all three "cheats" in its water sampling program.</p></div>
 </div>
 
@@ -210,7 +210,7 @@ Alexis Adams, the East Side resident, said her great-grandson was diagnosed with
 
 What did the county health department conclude?
 
-<div style="max-width:480px;padding:10px;" class="pull-left"><img src="img/picture_frame.jpg" class="img-responsive" />
+<div style="max-width:480px;padding:10px;" class="pull-left"><a href="img/picture_frame.jpg" data-lightbox="picture_frame" data-title="Carolette Meadows and her daughter in a family photo."><img src="img/picture_frame.jpg" class="img-responsive" /></a>
 <div class="caption"><p>Carolette Meadows and her daughter in a family photo.</p></div>
 </div>
 
@@ -228,7 +228,7 @@ Although soil can be a source of lead exposure, Meadows said her daughter rarely
 
 Commissioner of Health Gale Burstein refused an interview request. She said in a prepared statement that the county does not routinely test the water in the houses of children diagnosed with elevated lead levels in their blood.
 
-<div style="max-width:480px;padding:10px;" class="pull-right"><img src="img/tap_water.jpg" class="img-responsive" />
+<div style="max-width:480px;padding:10px;" class="pull-right"><a href="img/tap_water.jpg" data-lightbox="tap_water" data-title="Carolette Meadows uses a tap filter to remove lead from her water."><img src="img/tap_water.jpg" class="img-responsive" /></a>
 <div class="caption"><p>Carolette Meadows uses a tap filter to remove lead from her water.</p></div>
 </div>
 
