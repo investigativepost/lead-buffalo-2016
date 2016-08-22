@@ -280,3 +280,5 @@ Adams said she felt similarly.
 <div class="caption pull-left" style="margin:20px;border-radius:4px;"><p>Help us grow our nonprofit newsroom with a tax-deductible contribution. <a href="https://www.investigativepost.org/donate/"><strong>Donate Now</strong></a>.</p></div>
 </div>
 </div>
+
+<hr>
