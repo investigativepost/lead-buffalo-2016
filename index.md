@@ -148,6 +148,8 @@ Furthermore, many of the records the city provided are from a century ago, some 
 
 “We ran into this in Flint, Michigan, where we’re learning that the error rate in these records is about 50 percent,” Edwards said.
 
+<div class="pull-right" style="padding:10px;max-width:100%;"><iframe class="wgrz" width="640" height="360" style="border-width:0" src="http://interactive.tegna-media.com/video/embed/embed.html?id=2339173&type=video&title=Erie%20Co.%20Health%20Dept.%20Rarely%20Test%20Tap%20Water&site=71&playerid=6918249996581&dfpid=32805352&dfpposition=Video_prestream_external§ion=home" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe></div>
+
 “So, how do you know if you’re meeting the law when the records may not have been updated? I mean, it’s hard to believe that in some of those homes the service line hasn’t been replaced in a hundred years.”
 
 The [Erie County Health Department](http://www2.erie.gov/health/) said the city needs to ensure it is sampling the most at risk homes.
