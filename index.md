@@ -23,7 +23,7 @@ Nevertheless, Mayor Byron Brown said he wasn’t alarmed by Investigative Post�
 
 “I’m not concerned because our water is good in the City of Buffalo,” the mayor said.
 
-<div class="pull-left" style="padding:10px;max-width:100%;"><iframe width="640" height="360" style="border-width:0" src="http://interactive.tegna-media.com/video/embed/embed.html?id=2337971&type=video&title=Disparity%20In%20Buffalo%20Tap%20Water%20Testing&site=71&playerid=6918249996581&dfpid=32805352&dfpposition=Video_prestream_external§ion=home" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe></div>
+<div class="pull-left" style="padding:10px;max-width:100%;"><iframe class="wgrz" width="640" height="360" style="border-width:0" src="http://interactive.tegna-media.com/video/embed/embed.html?id=2337971&type=video&title=Disparity%20In%20Buffalo%20Tap%20Water%20Testing&site=71&playerid=6918249996581&dfpid=32805352&dfpposition=Video_prestream_external§ion=home" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe></div>
 
 But Investigative Post found serious shortcomings in the city’s testing program that extend beyond the racial disparities and call into question the mayor’s claim that the city’s drinking water supply is safe.
 
@@ -160,7 +160,7 @@ Investigative Post also found up to a quarter of the homes tested in 2014 were o
 
 Among the homes the city sampled that year are those owned by a former chief pumping plant engineer employed by the city for 30 years, a water treatment supervisor employed for 28 years and a chemist employed for 23 years.
 
-<div class="pull-left" style="padding:10px;max-width:100%;"><iframe width="640" height="360" style="border-width:0" src="http://interactive.tegna-media.com/video/embed/embed.html?id=2337887&type=video&title=Experts%20Critical%20Of%20Buffalo%20Tap%20Water%20Testing&site=71&playerid=6918249996581&dfpid=32805352&dfpposition=Video_prestream_external§ion=home" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe></div>
+<div class="pull-left" style="padding:10px;max-width:100%;"><iframe class="wgrz" width="640" height="360" style="border-width:0" src="http://interactive.tegna-media.com/video/embed/embed.html?id=2337887&type=video&title=Experts%20Critical%20Of%20Buffalo%20Tap%20Water%20Testing&site=71&playerid=6918249996581&dfpid=32805352&dfpposition=Video_prestream_external§ion=home" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe></div>
 
 In addition, the city sampled homes owned by public works employees, a parking enforcement officer and a senior engineer. In 2008 and 2011, the city sampled a home owned by state [Assemblywoman Crystal Peoples-Stokes](http://assembly.state.ny.us/mem/Crystal-D-Peoples-Stokes).
 
