@@ -69,7 +69,7 @@ Houses in Buffalo built before 1940 are more likely to have a lead service line 
 
 “It’s like drinking water through a 30-foot lead straw,” said Edwards, the national expert.
 
-Homes built before 1986 are more likely to have plumbing inside that contains lead – such as in solder used to connect pipes.
+Homes built between 1983 and 1987 are more likely to have plumbing inside that contains lead – such as in solder used to connect pipes.
 
 {% include buffalo-point-map.html %}
 
