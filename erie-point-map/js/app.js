@@ -67,10 +67,6 @@ var onVisCreated = function(vis, layers) {
       {
         title: "2013",
         condition: "year = 2013"
-      },
-      {
-        title: "2014",
-        condition: "year = 2014"
       }
     ]
   });
