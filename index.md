@@ -38,7 +38,7 @@ In addition to the disparity in the sampling program, Investigative Post found:
 * Buffalo’s program appears to be in violation of federal law for its failure to focus testing efforts on the houses considered most at risk.
 * Up to a quarter of the homes sampled in 2014 belonged to current or former city employees or their family members. Many of these employees work for the water or public works departments.
 * Buffalo has not acted on the federal recommendations to be transparent about the location of lead service lines, which are the chief source of lead in drinking water.
-* The Erie County Health Department rarely tests drinking water for lead in homes where a child has been diagnosed a high blood-lead level.
+* The Erie County Health Department rarely tests drinking water for lead in homes where a child has been diagnosed with a high blood-lead level.
 
 One community activist went so far as to accuse city and county officials of misleading residents.
 
