@@ -85,7 +85,7 @@ Investigative Post filed Freedom of Information Law requests to obtain records f
 
 An analysis of the records found that only one-third of the samples the city collected came from homes in the five ZIP codes that account for 91 percent of the reported childhood lead poisoning cases. These neighborhoods are collectively 66 percent minority.
 
-Nothing illustrates this disparity more than the sampling in ZIP code 14211, an area of the city bisected by Genesee Street that includes neighborhoods that include Martin Luther King and Schiller parks. The neighborhoods here are collectively 83 percent minority and accounted for almost 20 percent of the children diagnosed with dangerous levels of lead in their blood over the past three years. That’s 118 children.
+Nothing illustrates this disparity more than the sampling in ZIP code 14211, an area of the city bisected by Genesee Street that includes neighborhoods by Martin Luther King and Schiller parks. The neighborhoods here are collectively 83 percent minority and accounted for almost 20 percent of the children diagnosed with dangerous levels of lead in their blood over the past three years. That’s 118 children.
 
 Nonetheless, not a single home here was sampled in 2014 or in 2008.
 
